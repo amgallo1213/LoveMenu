@@ -578,10 +578,174 @@ export const foods = [
             ]  
         ],
         "allergens" : "dairy, alcohol, chocolate, nuts, soy",
-        "tableside" : "OUr chocolate pot de creme with hazelnut praline whipped cream and candied hazelnuts"
+        "tableside" : "Our chocolate pot de creme with hazelnut praline whipped cream and candied hazelnuts"
     },
     {
         "id" : 26,
+        "name" : "Whole Grain Parker House Rolls",
+        "menuDescription" : "chive butter",
+        "meal" : "lunch, dinner",
+        "category" : "creative pantry beginnings ",
+        "components" : [
+            [
+            " bread : honey, blended oil, AP flour, rye flour, salt, yeast, rolled oats, whole wheat flour, eggs "
+            ],
+            [
+            " chive butter :  butter whipped with chives and salt"
+            ]  
+        ],
+        "allergens" : "allium, honey, dairy, egg, gluten, canola oil",
+        "tableside" : "Parker house rolls with chive butter"
+    },
+    {
+        "id" : 27,
+        "name" : "Line Caught Tuna Crudo",
+        "menuDescription" : "avocado, lime, sesame rice crisps, black garlic & kimchee dressings",
+        "meal" : "lunch, dinner",
+        "category" : "creative pantry beginnings",
+        "components" : [
+            [
+            " tuna : line-caught from north & south carolina waters, chive rub (salt, sugar, aleppo, paprika, fennel seed, mustard seed) "
+            ],
+            [
+            " rice crisp : cornstarch, water, salt, black & white sesame seeds, chia seeds, hemp seeds, aleppo pepper, maldon sea salt "
+            ],
+            [
+            " black garlic glaze : garlic, black garlic, sugar, fish sauce, tamari, rice wine vinegar, cornstarch, salt "
+            ],
+            [
+            " kimchee dressing : kimchee base, water, blended oil, sugar, rice wine vinegar, xanthan gum "
+            ],
+            [
+            "kimchi base (momoya) : water, salt, garlic, sugar, glucose, fructose syrup (corn), apple, msg, vinegar, mandarin orange, red pepper, pickled vegetables, bonito stock, squid extract, hydrolyzed soy protein, dried bonito, citric acid, ginger, xanthan gum "
+            ]  
+        ],
+        "allergens" : "allium, sesame, garlic, soy, citrus, vinegar, nightshade, canola oil, mustard seed, capsicum, corn, shellfish",
+        "tableside" : "Fresh line-caught tuna crudo with seeded rice crisps and kimchee vinaigrette",
+        "notes" : "bright and light with a well balanced variety of flavors and textures, including lime segements, creamy avocado, light & crispy sesame rice crackers, and a bit of spice from the kimchi "
+    },
+    {
+        "id" : 28,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 29,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 30,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 31,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 32,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 33,
+        "name" : "",
+        "menuDescription" : "",
+        "meal" : "",
+        "category" : "",
+        "components" : [
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],
+            [
+            "  :  "
+            ],  
+        ],
+        "allergens" : "",
+        "tableside" : ""
+    },
+    {
+        "id" : 34,
         "name" : "",
         "menuDescription" : "",
         "meal" : "",
