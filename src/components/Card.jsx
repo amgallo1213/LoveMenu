@@ -20,6 +20,7 @@ const Card = ({ food }) => {
 
                 <p>Allergens: {food.allergens}</p>
                 <p>Tableside Description: {food.tableside}</p>
+                <p>Notes: {food.notes}</p>
             </div>
 
 

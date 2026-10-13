@@ -4,7 +4,7 @@ export const foods = [
         "name" : "Baby Buttermilk Drop Biscuits",
         "menuDescription" : "with our fresh Pear-Ginger Jam",
         "meal" : "brunch",
-        "category" : "New Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "Biscuits : flour, salt, sugar, baking powder, buter, buttermilk, heavy cream"
@@ -21,7 +21,7 @@ export const foods = [
         "name" : "Sirarcha Bacon Candy",
         "menuDescription" : "Five Sweet and Spicy Strips",
         "meal" : "brunch",
-        "category" : "New Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             " Glaze : maple syrup, rice wine vinegar, sriracha, black pepper, aleppo pepper"
@@ -38,7 +38,7 @@ export const foods = [
         "name" : "Warm Pumpkin Scones",
         "menuDescription" : "Whipped Fall Spice Cream Cheese, Peacans and Coffee Caramel",
         "meal" : "brunch",
-        "category" : "New Beginnings",
+        "category" : "appetizer",
         "components" : [
             ["scones : AP flour, salt, baking powder, sugar, ground nutmeg, ground cinnamon, pumpkin spice mix, pumpkin puree, molassed, heavy cream"
             ],
@@ -59,7 +59,7 @@ export const foods = [
         "name" : "Autumn Mushroom Soup",
         "menuDescription" : "leeks, miso, brioche croutons, chive creme fraiche and parmesan",
         "meal" : "brunch, lunch, dinner",
-        "category" : "New Beginnings, Creative Pantry Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "Soup Base : butter, leeks, white miso, seasonings sachet (sage, rosemary, thyme), parm stock, heavy cream, cremini mushrooms"
@@ -68,35 +68,40 @@ export const foods = [
             "brioche croutons : brioche, butter"
             ],
             [
-            "chive creme fraiche : chives, blended oil, lemon zest, creme freiche, salt"
+            "chive creme fraiche : chives, blended oil, lemon zest, creme fraiche, salt"
             ],  
         ],
         "allergens" : "mushroom, soy, dairy, allium, gluten, citrus (creme fraiche)",
-        "tableside" : "Our Autumn mushroom soup with brioche croutons and chive creme fraiche"
+        "tableside" : "Our Autumn mushroom soup with brioche croutons and chive creme fraiche",
+        "notes" : "savory and rich crimini mushroom soup brightened up with the addition of a brioche crouton topping and a lemony chive creme friache drizzle(?) "
     },
     {
         "id" : 4,
         "name" : "Southern Style Hush Puppies",
         "menuDescription" : "aleppo pepper dusting and salted honey butter",
         "meal" : "brunch, lunch, dinner",
-        "category" : "New Beginnings (brunch), Creative Pantry Beginnings (lunch, dinner)",
+        "category" : "appetizer",
         "components" : [
             [
             "hush puppies : eggs, sugar, onion, flour, cornmeal, baking powder, salt, old bay, buttermilk"
             ],
             [
             "old bay : celery salt, red & black pepper, paprika, garlic powder, onion powder, mustard, dill, ginger, bay leaf, allspice, coriander, nutmeg, clove, mace, lemon peel"
-            ],  
+            ], 
+            [
+            "aleppo pepper : fruity, tart, sweet-hot -- adds a bright acidity and a sweet heat"
+            ]
         ],
         "allergens" : "gluten, dairy, allium, capsaicin, eggs, garlic, citrus, mustard",
-        "tableside" : "Savory hush puppies with honey butter"
+        "tableside" : "Savory hush puppies with honey butter",
+        "notes" : "8 per order"
     },
     {
         "id" : 5,
         "name" : "Burrata 'Toast'",
         "menuDescription" : "arugula, fennel, rosemary, almonds, fresh autumn grapes, mostarda",
         "meal" : "brunch, lunch, dinner",
-        "category" : "New Beginnings, Creative Pantry Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "BUILD : arugula, fennel and radish tossed with rosemary vinaigrette. Mostarda is drizzled on plate and is garnished with candied almonds, grape halves, chives, and maldon salt."
@@ -121,14 +126,15 @@ export const foods = [
             ]  
         ],
         "allergens" : "nuts, citrus, alcohol, vinegar, gluten (toast), dairy, mustard, allium",
-        "tableside" : "Our fall burrata toast with fennel, arugula salad, candied almonds, autumnal grapes and a grape mostarda"
+        "tableside" : "Our fall burrata toast with fennel, arugula salad, candied almonds, autumnal grapes and a grape mostarda",
+        "notes" : ""
     },
     {
         "id" : 6,
         "name" : "Crispy Fried Green Tomatoes",
         "menuDescription" : "creole ranch and housemade sweet & sour pickles",
         "meal" : "brunch, lunch, dinner",
-        "category" : "New Beginnings, Creative Pantry Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "Progresso bread crumb : Panko, fennel seeds, black pepper, white pepper, chili powder, garlic powder, onion powder, thyme, rosemary, dry oregano, salt"
@@ -147,14 +153,14 @@ export const foods = [
             ],  
         ],
         "allergens" : "allium, dairy, citrus, capsaicin, gluten, soy, alcohol, egg, mustard",
-        "tableside" : "Our fried green tomatoes with creole ranc and bread and butter pickles"
+        "tableside" : "Our fried green tomatoes with creole ranch and bread and butter pickles"
     },
     {
         "id" : 7,
         "name" : "Ruby Red & Golden Beet Salad",
         "menuDescription" : "apples, walnuts, herb-yogurt dressing , local greens, lemon gastrique",
         "meal" : "brunch, lunch, dinner",
-        "category" : "New Beginnings, Creative Pantry Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "salad base : ruby red beets, golden beets, apples, bay leaf, thyme, black peppercorns, red wine vinegar, white wine vinegar"
@@ -173,14 +179,15 @@ export const foods = [
             ],  
         ],
         "allergens" : "allium, garlic (herb yogurt), alcohol, vinegar, citrus, nuts, capsaicin",
-        "tableside" : "OUr ruby and golden beet salad with apples, toasted walnuts on a bed of herb-yogurt dressing"
+        "tableside" : "Our ruby and golden beet salad with apples, toasted walnuts on a bed of herb-yogurt dressing",
+        "notes" : "red wine and white wine vinegar bring a tartness to the beats, while the herb yogurt provides a creamy base to mellow out the sharper flavors of the vegetables."
     },
     {
         "id" : 8,
         "name" : "Little Kale Salad",
         "menuDescription" : "carrot curls, golden raisins, sherry vinaigrette and parsley",
         "meal" : "brunch, lunch",
-        "category" : "New Beginnings, Creative Pantry Beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             "salad mix : hydrated golden raisins, sherry vinaigrette, sliced green kale, shaved baby carrot, whole parsley, love lettuce mix"
@@ -197,7 +204,7 @@ export const foods = [
         "name" : "Shrimp & Grits",
         "menuDescription" : "gulf shrimp, local grits, southern shellfish sauce, onions and peppers",
         "meal" : "brunch, lunch",
-        "category" : "OG Classics",
+        "category" : "entree",
         "components" : [
             [
             " Grits : Castle Valley Mill Yellow Grits (local out of Doylestown, PA), buttermilk, butter "
@@ -217,7 +224,7 @@ export const foods = [
         "name" : "Healthy Frittata Wedge",
         "menuDescription" : "zucchini, ripe tomato, oregano, fresh mozzarella, and sweet basil sauce",
         "meal" : "brunch",
-        "category" : "OG Classics",
+        "category" : "entree",
         "components" : [
             [
             " Frittata Build : eggs, salt, roasted tomato, roasted zucchini, roasted squash, mozzarella, grated Parmesan "
@@ -234,7 +241,7 @@ export const foods = [
         "name" : "Turkey Avocado Melt",
         "menuDescription" : "fried egg, pepperjack, aioli, our english muffin, greens, and potatoes",
         "meal" : "brunch, lunch",
-        "category" : "OG Classics, Lunch",
+        "category" : "entree",
         "components" : [
             [
             " Build : sandwich is served open-faced on house made English muffins. House brined turkey is sliced, layered with Piquillo aioli, topped with avocado and melted pepper jack cheese "
@@ -260,7 +267,7 @@ export const foods = [
         "name" : "Take Me Away Fried Nashville Spicy Hot Chicken",
         "menuDescription" : "griddled brioche, pickles, and comeback sauce",
         "meal" : "brunch, lunch",
-        "category" : "OG Classics, Lunch",
+        "category" : "entree",
         "components" : [
             [
             " Chicken Batter : AP flour, semonlin, salt, black peppercorn, cumin seed, coriander seed, cayenne, rice flour, yellow mustard powder "
@@ -292,7 +299,7 @@ export const foods = [
         "name" : "Broccoli & Cheese Omelet",
         "menuDescription" : "spinach saute, bright herb-cheddar cream cheese, crispy potatoes",
         "meal" : "brunch, lunch",
-        "category" : "OG Classics, Lunch",
+        "category" : "entree",
         "components" : [
             [
             " Omelet Build : cracked egg mix (heavy cream, egg, spinach, brocooli, herb-cheddar "
@@ -312,7 +319,7 @@ export const foods = [
         "name" : "Handmade Ricotta Ravioli",
         "menuDescription" : "sweet corn saute, fresh basil sauce, and pepperconr breadcrumbs",
         "meal" : "brunch, lunch, dinner",
-        "category" : "OG Classics, Lunch, A Real Meal",
+        "category" : "entree, appetizer",
         "components" : [
             [
             " Build : Six ricotta ravioli, parm stock (contains allium), grated parm, butter "
@@ -341,7 +348,7 @@ export const foods = [
         "name" : "Truffle Scented Cauliflower Risotto",
         "menuDescription" : "brandied butternut squash, brown butter pears, rosemary hazelnuts",
         "meal" : "brunch, lunch, dinner",
-        "category" : "OG Classics, Lunch, Creative Pantry Beginnings",
+        "category" : "entree, appetizer",
         "components" : [
             [
             " Build : Risotto, cauliflower, parm stock, truffle butter, grated parm, creme fraiche, salt, lemon "
@@ -350,7 +357,7 @@ export const foods = [
             " Truffle Butter : truffle, truffle juice, truffle oil, shallots, bay leaves, butter, thyme, black pepper, lemon zest "
             ],
             [
-            " Brown Butter Brandy Vin : butter, pear, butternut squash, brandy, honey,apple cider vin, lemon juice, lemon zest "
+            " Brown Butter Brandy Vin : butter, pear, butternut squash, brandy, honey, apple cider vin, lemon juice, lemon zest "
             ],
             [
             " Garnish : mustard frills, brown butter brandy vin, microplaned parm, toasted hazelnuts, rosemary, chives "
@@ -364,7 +371,7 @@ export const foods = [
         "name" : "Lemon Poppy Seed Pancakes",
         "menuDescription" : "lemon buttercream and sour cherry sauce",
         "meal" : "brunch",
-        "category" : "OG Classics, Tasty Side Pieces",
+        "category" : "entree",
         "components" : [
             [
             " Pancake : AP flour, baking powder, salt, sugar, eggs, buttermilk, butter, poppy seeds "
@@ -377,14 +384,14 @@ export const foods = [
             ],  
         ],
         "allergens" : "gluten, citrus, dairy, eggs",
-        "tableside" : "Or lemon poppy pancakes with sour cherry sauce and lemon buttercream"
+        "tableside" : "Our lemon poppy pancakes with sour cherry sauce and lemon buttercream"
     },
     {
         "id" : 17,
         "name" : "Posh Brunch",
         "menuDescription" : "truffle scented scramled eggs, brioche, potatoes, sauteed spinach",
         "meal" : "brunch",
-        "category" : "OG Classics",
+        "category" : "entree",
         "components" : [
             [
             " Build : scrambled eggs finished with Italian truffle butter, served with crisp potatoes, sauteed spinach, and a mixed green salad with a pink peppercorn vinaigrette "
@@ -404,7 +411,7 @@ export const foods = [
         "name" : "'Philly Special'",
         "menuDescription" : "Short rib burger, cooper sharp, fried onions, long-hot aioli, crispy potatoes, greens",
         "meal" : "brunch, lunch",
-        "category" : "OG Classics, Lunch",
+        "category" : "entree",
         "components" : [
             [
             " Burger : 8 oz La Frieda short rib patty "
@@ -427,7 +434,7 @@ export const foods = [
         "name" : "Chicken Caesar",
         "menuDescription" : "Crisp gem romaine, citrus scented caesar, black pepper croutons and parmesan",
         "meal" : "brunch, lunch, dinner (no chicken)",
-        "category" : "OG Classics, Lunch, Creative Pantry Beginnings",
+        "category" : "entree",
         "components" : [
             [
             " Caesar Salad Build : red and green romaine, red and green endive, parmesan, chives, tomato brushed croutons "
@@ -453,7 +460,7 @@ export const foods = [
         "name" : "Cucumber & Feta Salad",
         "menuDescription" : "tomatoes, pickled red onion, herb vinaigrette",
         "meal" : "brunch, lunch, dinner",
-        "category" : "Sides, Tasty Side Pieces",
+        "category" : "sides",
         "components" : [
             [
             " Build : crumbled feta, pickled basil, picked dill, cherry tomatoe, Aleppo, chives, dry oregano "
@@ -585,7 +592,7 @@ export const foods = [
         "name" : "Whole Grain Parker House Rolls",
         "menuDescription" : "chive butter",
         "meal" : "lunch, dinner",
-        "category" : "creative pantry beginnings ",
+        "category" : "appetizer ",
         "components" : [
             [
             " bread : honey, blended oil, AP flour, rye flour, salt, yeast, rolled oats, whole wheat flour, eggs "
@@ -595,14 +602,15 @@ export const foods = [
             ]  
         ],
         "allergens" : "allium, honey, dairy, egg, gluten, canola oil",
-        "tableside" : "Parker house rolls with chive butter"
+        "tableside" : "Parker house rolls with chive butter",
+        "notes" : "warm whole wheat and rye rolls with a hint of sweetness served with a delicious chive butter. we also have a plain butter."
     },
     {
         "id" : 27,
         "name" : "Line Caught Tuna Crudo",
         "menuDescription" : "avocado, lime, sesame rice crisps, black garlic & kimchee dressings",
         "meal" : "lunch, dinner",
-        "category" : "creative pantry beginnings",
+        "category" : "appetizer",
         "components" : [
             [
             " tuna : line-caught from north & south carolina waters, chive rub (salt, sugar, aleppo, paprika, fennel seed, mustard seed) "
@@ -618,7 +626,10 @@ export const foods = [
             ],
             [
             "kimchi base (momoya) : water, salt, garlic, sugar, glucose, fructose syrup (corn), apple, msg, vinegar, mandarin orange, red pepper, pickled vegetables, bonito stock, squid extract, hydrolyzed soy protein, dried bonito, citric acid, ginger, xanthan gum "
-            ]  
+            ],
+            [
+                "veggies etc. : breakfast/watermelon/ninja radishes, avocado, lime segements"
+            ]
         ],
         "allergens" : "allium, sesame, garlic, soy, citrus, vinegar, nightshade, canola oil, mustard seed, capsicum, corn, shellfish",
         "tableside" : "Fresh line-caught tuna crudo with seeded rice crisps and kimchee vinaigrette",
