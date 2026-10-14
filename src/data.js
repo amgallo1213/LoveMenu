@@ -346,7 +346,7 @@ export const foods = [
     {
         "id" : 15,
         "name" : "Truffle Scented Cauliflower Risotto",
-        "menuDescription" : "brandied butternut squash, brown butter pears, rosemary hazelnuts",
+        "menuDescription" : "brandied butternut squash, brown butter pears, rosemary, hazelnuts",
         "meal" : "brunch, lunch, dinner",
         "category" : "entree, appetizer",
         "components" : [
@@ -364,7 +364,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "Allium, dairy, alcohol, nuts, mustard, citrus, soy",
-        "tableside" : "Our truffle infused fall risotto with brandied butternut squash and pears, garnished with hazelnut, rosemary and chives"
+        "tableside" : "Our truffle infused fall risotto with brandied butternut squash and pears, garnished with hazelnut, rosemary and chives",
+        "notes" : "rich, savory, umami, fall flavors"
     },
     {
         "id" : 16,
@@ -384,7 +385,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "gluten, citrus, dairy, eggs",
-        "tableside" : "Our lemon poppy pancakes with sour cherry sauce and lemon buttercream"
+        "tableside" : "Our lemon poppy pancakes with sour cherry sauce and lemon buttercream",
+        "notes" : "great to share "
     },
     {
         "id" : 17,
@@ -426,8 +428,9 @@ export const foods = [
             " Build : sesame seed bun, long hot aioli, burger patty, fried onions, pimento cheese "
             ],  
         ],
-        "allergens" : "dairy, gluten, alliym, garlic, capsicum, capsaicin, canola oil, vinegar, mustard, egg, soy, nightshade",
-        "tableside" : "Our short rib burger with long hot aioli and fried onions"
+        "allergens" : "dairy, gluten, allium, garlic, capsicum, capsaicin, canola oil, vinegar, mustard, egg, soy, nightshade",
+        "tableside" : "Our short rib burger with long hot aioli and fried onions",
+        "notes" : "a combination of famous Philly sandwiches, can be easily modified"
     },
     {
         "id" : 19,
@@ -453,7 +456,8 @@ export const foods = [
             ]  
         ],
         "allergens" : "dairy, capsicum, egg, vinegar, gluten, alcohol, citrus, alliumn, garlic, fish",
-        "tableside" : "Our citrus scented caesar salad with peppercorn croutons and aged parmesan cheese"
+        "tableside" : "Our citrus scented caesar salad with peppercorn croutons and aged parmesan cheese",
+        "notes" : "generous amount of parm cheese"
     },
     {
         "id" : 20,
@@ -463,13 +467,13 @@ export const foods = [
         "category" : "sides",
         "components" : [
             [
-            " Build : crumbled feta, pickled basil, picked dill, cherry tomatoe, Aleppo, chives, dry oregano "
+            " Build : crumbled feta, pickled basil, picked dill, cherry tomatoes, Aleppo, chives, dry oregano "
             ],
             [
             " Oregano Red Wine Vinaigrette : red wine vinegar, blended oil, sugar, whole black peppercorn, fennel seed, chili powder, oregano, thyme, xanthan "
             ],
             [
-            " Red Wine Pickled Red Onion : red wine vin, white wine vin, sugar, water, fennel seed, chili flaxe, thyme, oregano, garlic, salt, canola oil "
+            " Red Wine Pickled Red Onion : red wine vin, white wine vin, sugar, water, fennel seed, chili flake, thyme, oregano, garlic, salt, canola oil "
             ],  
         ],
         "allergens" : "allium, garlic, dairy, alcohol, capsicum, vinegar, nightshade",
@@ -477,7 +481,7 @@ export const foods = [
     },
     {
         "id" : 21,
-        "name" : "Fresh, Warm Apple Tart Tatin",
+        "name" : "Fresh, Warm Apple Tarte Tatin",
         "menuDescription" : "buttery puff pastry and ginger ice cream",
         "meal" : "dessert",
         "category" : "dessert",
@@ -637,43 +641,62 @@ export const foods = [
     },
     {
         "id" : 28,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Salmon Sticky Rice Bowl",
+        "menuDescription" : "bok choy, shiitake, daikon, broccoli, love chili crisp, ponzu & cilantro salad",
+        "meal" : "lunch, dinner",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " build : sticky rice, teriyaki ponzu sauce, veg mix 9charred bok choy leaves, broccoli, seared shiitake, poached daikon, carrot curls), salmon, chili crisp garnish "
             ],
             [
-            "  :  "
+            " Teriyaki ponzu sauce : sake, sugar, rice wine vinegar, ginger, onion, jalapeno, shallot, tamari "
             ],
             [
-            "  :  "
-            ],  
+            " sticky rice : rice, salt, EVOO, water "
+            ],
+            [
+            " chili crisp : shallots, garlic, ginger, jalapenos, dried chipotle, guajillo peppers, Aji Panca paste, aleppo, cinnamon, star anise, blended oil, shallot oil, white sesame seeds, black sesame seeds, salt "
+            ],
+            [
+            " poached daikon : sake, mirin, sugar, tamari, daikon radish "
+            ],
+            ,
+            [
+            " salmon : 5 oz, ocean farm raised, cooked to medium "
+            ],
+            [
+            " tofu marinade : blended oil, thyme, parsley, black pepper, cumin, oregano, aleppo, salt, lemon zest "
+            ],
+            ,
+            [
+            " black garlic glaze : garlic, black garlic, sugar, tamari, rice wine vinegar, cornstarch, salt "
+            ],
+            [
+            " garnish : chive, chili crisp, shaved ninja radish, cilantro, carrot salad"
+            ]  
         ],
-        "allergens" : "",
-        "tableside" : ""
+        "allergens" : "vinegar, canola oil, capsicum/capsaicin, allium, garlic (chili crisp), soy, baking spices, cilantro, sesame, citrus",
+        "tableside" : "Our seared salmon with sticky rice and chili crisp",
+        "notes" : "most popular lunch dish, like a stir fry, chili crisp has a hint of heat but is more smokey"
     },
     {
         "id" : 29,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Labor of Love",
+        "menuDescription" : "an all American cheese plate",
+        "meal" : "lunch, dinner, brunch",
+        "category" : "appetizer",
         "components" : [
             [
-            "  :  "
+            " cheeses : a selection of cow, goat, and sheep "
             ],
             [
-            "  :  "
-            ],
-            [
-            "  :  "
-            ],  
+            " garnishes : toast, wine soaked raisins, spiced pepitas, candied pecans, cornichons, seasonal fruit, rosemary "
+            ]  
         ],
-        "allergens" : "",
-        "tableside" : ""
+        "allergens" : "nuts, citrus (lemon in goat cheese), alcohol, gluten, ",
+        "tableside" : "",
+        "notes" : "1 oz portions of each cheese, nothing too adventurous, can switch out blue cheese if asked"
     },
     {
         "id" : 30,
@@ -693,7 +716,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "",
-        "tableside" : ""
+        "tableside" : "",
+        "notes" : ""
     },
     {
         "id" : 31,
@@ -713,7 +737,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "",
-        "tableside" : ""
+        "tableside" : "",
+        "notes" : ""
     },
     {
         "id" : 32,
@@ -733,7 +758,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "",
-        "tableside" : ""
+        "tableside" : "",
+        "notes" : ""
     },
     {
         "id" : 33,
@@ -753,7 +779,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "",
-        "tableside" : ""
+        "tableside" : "",
+        "notes" : ""
     },
     {
         "id" : 34,
@@ -773,7 +800,8 @@ export const foods = [
             ],  
         ],
         "allergens" : "",
-        "tableside" : ""
+        "tableside" : "",
+        "notes" : ""
     },
 ]
 
