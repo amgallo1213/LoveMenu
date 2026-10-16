@@ -73,7 +73,7 @@ export const foods = [
         ],
         "allergens" : "mushroom, soy, dairy, allium, gluten, citrus (creme fraiche)",
         "tableside" : "Our Autumn mushroom soup with brioche croutons and chive creme fraiche",
-        "notes" : "savory and rich crimini mushroom soup brightened up with the addition of a brioche crouton topping and a lemony chive creme friache drizzle(?) "
+        "notes" : "savory and rich crimini mushroom soup brightened up with the addition of a brioche crouton topping and a lemony chive creme friache dollop.  "
     },
     {
         "id" : 4,
@@ -127,7 +127,7 @@ export const foods = [
         ],
         "allergens" : "nuts, citrus, alcohol, vinegar, gluten (toast), dairy, mustard, allium",
         "tableside" : "Our fall burrata toast with fennel, arugula salad, candied almonds, autumnal grapes and a grape mostarda",
-        "notes" : ""
+        "notes" : "feels both indulgent and healthy, can eat each component by themselves or top the toast with salad"
     },
     {
         "id" : 6,
@@ -234,7 +234,7 @@ export const foods = [
             ]  
         ],
         "allergens" : "eggs, dairy, allium, nightshade, citrus",
-        "tableside" : "Our Healthy Wedge with zucchini, ripe tomatoes, and a sweet basil pistou."
+        "tableside" : "Our Healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou."
     },
     {
         "id" : 11,
@@ -247,10 +247,10 @@ export const foods = [
             " Build : sandwich is served open-faced on house made English muffins. House brined turkey is sliced, layered with Piquillo aioli, topped with avocado and melted pepper jack cheese "
             ],
             [
-            " Turkey : brined in water, salt, light brown sugar, thyne, rosemary, bay leaf, black peppercorns, lactic acid (people with severy dairy allergies will not be able to eat the turkey) "
+            " Turkey : brined in water, salt, light brown sugar, thy,e, rosemary, bay leaf, black peppercorns, lactic acid (people with severy dairy allergies will not be able to eat the turkey) "
             ],
             [
-            " English Muffin : hoeny, EVOO, flour, milk, salt, yeast, baking soda "
+            " English Muffin : honey, EVOO, flour, milk, salt, yeast, baking soda "
             ],
             [
             " Peppadew Aioli : peppadew peppers, mayo, onion powder, garlic powder, chili powder, tabasco "
@@ -328,13 +328,13 @@ export const foods = [
             " Corn Thyme Beurre Blanc : corn, parm stock, thyme beurre blanc, white wine, cornstarch, butter, parmesan, lemon juice, salt "
             ],
             [
-            " Basil Arugula Pistou : basil, arugula, roasted garlic, zanthan gum, EVOO, grated parm, salt, honey, lemon zest "
+            " Basil Arugula Pistou : basil, arugula, roasted garlic, xanthan gum, EVOO, grated parm, salt, honey, lemon zest "
             ],
             [
             " Slow Roasted Cherry Tomatoes : cherry tomatoes, thyme, oregano, roasted garlic, sherry vinegar, fennel, EVOO, sugar, salt, cracked black pepper "
             ],
             [
-            " Garlic Black Pepper Breadcrumb : blitzed cbibatto croutons, garlic oil, black pepper, salt "
+            " Garlic Black Pepper Breadcrumb : blitzed ciabatta croutons, garlic oil, black pepper, salt "
             ],
             [
             " Garnish : Slow roasted cherry tomatoes, basil arugula pistou, garlic black pepper breadcrumbs, chives "
@@ -568,7 +568,7 @@ export const foods = [
     {
         "id" : 25,
         "name" : "Chocolate Pot de Creme",
-        "menuDescription" : "hazelnut praline whipped cream, candied hazelnuts and coffee scented glaky salt",
+        "menuDescription" : "hazelnut praline whipped cream, candied hazelnuts and coffee scented flaky salt",
         "meal" : "dessert",
         "category" : "dessert",
         "components" : [
@@ -612,7 +612,7 @@ export const foods = [
     {
         "id" : 27,
         "name" : "Line Caught Tuna Crudo",
-        "menuDescription" : "avocado, lime, sesame rice crisps, black garlic & kimchee dressings",
+        "menuDescription" : "avocado, lime, sesame rice crisps, black garlic & kimchi dressings",
         "meal" : "lunch, dinner",
         "category" : "appetizer",
         "components" : [
@@ -626,13 +626,13 @@ export const foods = [
             " black garlic glaze : garlic, black garlic, sugar, fish sauce, tamari, rice wine vinegar, cornstarch, salt "
             ],
             [
-            " kimchee dressing : kimchee base, water, blended oil, sugar, rice wine vinegar, xanthan gum "
+            " kimchi dressing : kimchee base, water, blended oil, sugar, rice wine vinegar, xanthan gum "
             ],
             [
             "kimchi base (momoya) : water, salt, garlic, sugar, glucose, fructose syrup (corn), apple, msg, vinegar, mandarin orange, red pepper, pickled vegetables, bonito stock, squid extract, hydrolyzed soy protein, dried bonito, citric acid, ginger, xanthan gum "
             ],
             [
-                "veggies etc. : breakfast/watermelon/ninja radishes, avocado, lime segements"
+            "veggies etc. : breakfast/watermelon/ninja radishes, avocado, lime segements"
             ]
         ],
         "allergens" : "allium, sesame, garlic, soy, citrus, vinegar, nightshade, canola oil, mustard seed, capsicum, corn, shellfish",
@@ -647,7 +647,7 @@ export const foods = [
         "category" : "entree",
         "components" : [
             [
-            " build : sticky rice, teriyaki ponzu sauce, veg mix 9charred bok choy leaves, broccoli, seared shiitake, poached daikon, carrot curls), salmon, chili crisp garnish "
+            " build : sticky rice, teriyaki ponzu sauce, veg mix (charred bok choy leaves, broccoli, seared shiitake, poached daikon, carrot curls), salmon, cilantro, chili crisp garnish "
             ],
             [
             " Teriyaki ponzu sauce : sake, sugar, rice wine vinegar, ginger, onion, jalapeno, shallot, tamari "
@@ -700,108 +700,291 @@ export const foods = [
     },
     {
         "id" : 30,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Lovebird",
+        "menuDescription" : "Our buttermilk fried chicken, buttery corn grits, comeback sauce, and collard greens",
+        "meal" : "dinner",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " chicken : brined overnight in buttermilk, thyme, lemon peel, ginger, lactic acid, onion powder, garlic, brown sugar, salt, water. It is breaded in flour, semolina, salt, cumin, coriander, rice flour, and mustard powder. "
             ],
             [
-            "  :  "
+            " comeback sauce : mayo (soy), chili sauce (chili, tomato, onion, garlic, paprika), chipotle peppers in adobo sauce (onion, soy oil, sugar, salt, vinegar, garlic, paprika, chipotle peppers, tomato), lemon juice, pimento, worcestershire sauce, hot sauce, salt, chili powder, mustard powder, black pepper "
             ],
             [
-            "  :  "
+            " collards : ginger, fresno chili, light brown sugar, butter, white miso, white wine vinegar "
+            ],
+            [
+            " grits : castle valley mill yellow grits (doylestown), buttermilk, heavy cream, butter, jalepeno "
             ],  
         ],
-        "allergens" : "",
-        "tableside" : "",
+        "allergens" : "gluten, dairy, allium, citrus, chili, capsaicin, capsicum, soy, seafood, nightshade, vinegar, canola oil, garlic",
+        "tableside" : "fried chicken over comeback sauce with buttery corn grids and all day braised collard greens",
         "notes" : ""
     },
     {
         "id" : 31,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Mediterranean Branzino",
+        "menuDescription" : "charred zucchini & cauliflower, crisp chickpeans and red pepper-almond romesco",
+        "meal" : "dinner",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " Branzino filet : 7oz "
             ],
             [
-            "  :  "
+            " roasted veggies : red onions, zucchini, cauliflower florets, extra virgin olive oil "
             ],
             [
-            "  :  "
+            " romesco : roasted peppers, garlic, sun dried tomatoes, sherry vinegar, toasted almonds, blended olives, EVOO, pimeton (smoked paprika) "
+            ],
+            [
+            " crisp chickpeas : chickpeas, EVOO, cumin, cinnamon, ginger, red pepper flakes, paprika, sumac "
+            ],
+            [
+            " vierge garnish : tomatoes, shallot, garlic, basil, tarragon, parsley, capers, lemon juice & zest, EVOO "
             ],  
         ],
-        "allergens" : "",
-        "tableside" : "",
+        "allergens" : "alllium, capsaicin, nightshade, baking spice, alcohol (sherry vin), nuts (almonds), citrus, legumes (chickpeas)",
+        "tableside" : "our mediterranean branzino with charred vegetables and crisp chickpeas over a red pepper-almond romesco ",
         "notes" : ""
     },
     {
         "id" : 32,
-        "name" : "",
-        "menuDescription" : "",
+        "name" : "Handmade Ricotta Ravioli",
+        "menuDescription" : "sweet summer corn saute, fresh basil sauce and peppercorn breadcrumbs",
         "meal" : "",
-        "category" : "",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " ricotta ravioli : 6 per order, parm stock (contains allium), grated parm, butter "
             ],
             [
-            "  :  "
+            " corn thyme beurre blanc : corn, parm stock, thyme, beurre blanc, white wine, cornstarch, butter, parmesan, lemon juice, salt "
             ],
             [
-            "  :  "
+            " basil arugula pistou : basil, arugula, roasted garlic, xanthan gum, EVOO, grated parm, salt, honey, lemon zest "
+            ],
+            ,
+            [
+            " slow roasted cherry tomatoes : cherry tomatoes, thyme, oregano, roasted garlic, sherry vinegar, fennel, EVOO, sugar, salt, black pepper "
+            ],
+            ,
+            [
+            " garlic black pepper breadcrumbs : ciabatta croutons, garlic oil, black pepper, salt "
             ],  
         ],
-        "allergens" : "",
-        "tableside" : "",
+        "allergens" : "allium, garlic, nightshade, gluten, diary, corn, vinegar, alcohol, citrus, honey, piperine",
+        "tableside" : "house made ricotta ravioli, sweet corn saute, fresh basil sauce and breadcrumbs",
         "notes" : ""
     },
     {
         "id" : 33,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Shrimp & Scallop Spaghetti",
+        "menuDescription" : "lemon butter, grilled artichoke hearts, capers, herbs and parmesan frico",
+        "meal" : "dinner",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " build : 6oz spaghetti, marinated artichokes, 3 shrimp, 3 scallops "
             ],
             [
-            "  :  "
+            " marinated artichokes : chili flakes, black peppercorns, salt, basil, parsley, oregano, champagne vin, EVOO "
             ],
             [
-            "  :  "
+            " pasta dough : mancini spaghetti (wheat, semonlina, water) "
+            ],
+            [
+            " parm frico : grana padano cheese "
+            ],
+            [
+            " lemon caper butter : lemon, shallot, lemon oil, EVOO, capers, lemon extract (alcohol), lemon juice, butter "
+            ],
+            [
+            " lemon beurre monte : lemon butter, white wine, cornstarch, water "
             ],  
         ],
-        "allergens" : "",
-        "tableside" : "",
+        "allergens" : "citrus, dairy, gluten, shellfish, allium, alcohol, corn",
+        "tableside" : "our shrimp and scallop spaghetti with grilled artichoke hearts, and parmesan frico",
         "notes" : ""
     },
     {
         "id" : 34,
-        "name" : "",
-        "menuDescription" : "",
-        "meal" : "",
-        "category" : "",
+        "name" : "Rigatoni & Short Rib",
+        "menuDescription" : "tender braised beef, blushing tomato ragu, crispy sweet onions & summery basil",
+        "meal" : "dinner",
+        "category" : "entree",
         "components" : [
             [
-            "  :  "
+            " short rib braise : black pepper, vidalia onion, celery, carrot, fennel, red fresno pepper, oregano, thyme, chicken broth, tomato paste, dry red wine "
             ],
             [
-            "  :  "
+            " fenel sofrito : onion, fennel, garlic, red bell pepper, jalapeno, oregano, butter, basil, dry white wine "
             ],
             [
-            "  :  "
-            ],  
+            " rigatoni base : italian rigatoni, butter, parm stock, white wine, roasted tomatoes, rosemary, cipollini onions "
+            ],
+            ,
+            [
+            " sugo sauce : tomato paste, dry white wine, heavy cream, short rib braising liquid, canned tomtaotes, citrus (lemon juice - can be omitted) "
+            ],
+            [
+            " fried onions : battered with flour, ssemonlin, salt, cumin, coriander, rice flour and mustard powder "
+            ],
+            [ 
+            " garnish : chives, fresh basil, grated parm, fried onions " 
+        ],  
         ],
-        "allergens" : "",
-        "tableside" : "",
+        "allergens" : "diary, alcohol, allium, garlic, capsaicin, capsicum, gluten, egg, vinegar, canola oil, mustard, citrus",
+        "tableside" : "our braised short rib with imported rigatoni, slow roasted tomatoes, fresh basil and crispy onions",
         "notes" : ""
+    },
+    {
+    "id" : 35,
+    "name" : "Pork Chop",
+    "menuDescription" : "",
+    "meal" : "dinner",
+    "category" : "entree",
+    "components" : [
+        [ 
+            " onion soubise : cider vin, apples, brown sugar, parsnip, onion" 
+        ],
+        [ 
+            "veggies : roasted sweet potatoes, apples, parsnips (roasted with paprika, cumin, chili flake) " 
+        ],
+        [ 
+            " cider-mustard glaze: ginger, rosemary, mustard, bourbon, apple cider vin, borwn sugar, pickled mustard seeds" 
+        ],
+    ],
+    "allergens" : "dairy, fish (worcestershire sauce in pork chop brine), allium, alcohol, mustard, capsaicum",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 36,
+    "name" : "",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 37,
+    "name" : "",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 38,
+    "name" : "",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 39,
+    "name" : "",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 40,
+    "name" : "",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
+    },
+     {
+    "id" : 41,
+    "name" : "CUT AND PASTE NEW!!",
+    "menuDescription" : "",
+    "meal" : "",
+    "category" : "",
+    "components" : [
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+        [ 
+            " : " 
+        ],
+    ],
+    "allergens" : "",
+    "tableside" : "",
+    "notes" : ""
     },
 ]
 
