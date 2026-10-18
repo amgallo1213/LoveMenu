@@ -95,8 +95,7 @@ p {
   padding: 8px;
 }
 
-code,
-.counter {
+code {
   font-family: var(--mono);
   display: inline-flex;
   border-radius: 4px;

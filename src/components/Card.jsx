@@ -15,9 +15,6 @@ const Card = ({ food }) => {
                 <ul>
                     {componentListItem}
                 </ul>
-
-                {/* <p>{food.components}</p><br /> */}
-
                 <p>Allergens: {food.allergens}</p>
                 <p>Tableside Description: {food.tableside}</p>
                 <p>Notes: {food.notes}</p>
