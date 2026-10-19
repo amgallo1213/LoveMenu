@@ -6,7 +6,7 @@ export const foods = [
         "meal": [
             ["brunch"]
         ],
-        "category": "appetizer",
+        "category": "brunch",
         "components": [
             [
                 "Biscuits : flour, salt, sugar, baking powder, buter, buttermilk, heavy cream"
@@ -25,7 +25,7 @@ export const foods = [
         "meal": [
             ["brunch"]
         ],
-        "category": "appetizer",
+        "category": "brunch",
         "components": [
             [
                 " Glaze : maple syrup, rice wine vinegar, sriracha, black pepper, aleppo pepper"
@@ -44,7 +44,7 @@ export const foods = [
         "meal": [
             ["brunch"]
         ],
-        "category": "appetizer",
+        "category": "brunch",
         "components": [
             ["scones : AP flour, salt, baking powder, sugar, ground nutmeg, ground cinnamon, pumpkin spice mix, pumpkin puree, molassed, heavy cream"
             ],
@@ -236,7 +236,7 @@ export const foods = [
             ["brunch, "],
             ["lunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
                 " Grits : Castle Valley Mill Yellow Grits (local out of Doylestown, PA), buttermilk, butter "
@@ -258,7 +258,7 @@ export const foods = [
         "meal": [
             ["brunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
                 " Frittata Build : eggs, salt, roasted tomato, roasted zucchini, roasted squash, mozzarella, grated Parmesan "
@@ -268,7 +268,8 @@ export const foods = [
             ]
         ],
         "allergens": "eggs, dairy, allium, nightshade, citrus",
-        "tableside": "Our Healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou."
+        "tableside": "Our Healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou.",
+        "notes" : "comes with salad and potato wedges"
     },
     {
         "id": 11,
@@ -278,13 +279,13 @@ export const foods = [
             ["brunch, "],
             ["lunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
-                " Build : sandwich is served open-faced on house made English muffins. House brined turkey is sliced, layered with Piquillo aioli, topped with avocado and melted pepper jack cheese "
+                " Build : sandwich is served open-faced on house made English muffins. House brined turkey is sliced, layered with Peppadew aioli, topped with avocado and melted pepper jack cheese "
             ],
             [
-                " Turkey : brined in water, salt, light brown sugar, thyme, rosemary, bay leaf, black peppercorns, lactic acid (people with severy dairy allergies will not be able to eat the turkey) "
+                " Turkey : brined in water, salt, light brown sugar, thyme, rosemary, bay leaf, black peppercorns, lactic acid (people with severe dairy allergies will not be able to eat the turkey) "
             ],
             [
                 " English Muffin : honey, EVOO, flour, milk, salt, yeast, baking soda "
@@ -297,7 +298,8 @@ export const foods = [
             ],
         ],
         "allergens": "soy, mustard, gluten, dairy, allium, garlic (aioli), egg, avocado, capsaicin, honey, capsicum, vinegar, nightshade",
-        "tableside": "Open-faced turkey melt with pepper jack cheese and avocado served over house made english muffin"
+        "tableside": "Open-faced turkey melt with pepper jack cheese and avocado served over house made english muffin",
+        "notes" : "served with an egg for brunch but not lunch. comes with salad and potato wedges"
     },
     {
         "id": 12,
@@ -307,7 +309,7 @@ export const foods = [
             ["brunch, "],
             ["lunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
                 " Chicken Batter : AP flour, semonlin, salt, black peppercorn, cumin seed, coriander seed, cayenne, rice flour, yellow mustard powder "
@@ -332,7 +334,8 @@ export const foods = [
             ],
         ],
         "allergens": "dairy, allium, garlic (brine, comeback sauce), gelatin, capsaicin, nightshade, gluten, mustard, Capsicum, vinegar, egg, soy, fish (anchovy in worcestershire)",
-        "tableside": "Our Nashville hot chicke over comeback suace with house made pickles"
+        "tableside": "Our Nashville hot chicken over comeback suace with house made pickles",
+        "notes" : "breast and thigh. chili oil is a bit spicy."
     },
     {
         "id": 13,
@@ -342,7 +345,7 @@ export const foods = [
             ["brunch, "],
             ["lunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
                 " Omelet Build : cracked egg mix (heavy cream, egg, spinach, brocooli, herb-cheddar "
@@ -354,19 +357,19 @@ export const foods = [
                 " garnish : chives "
             ],
         ],
-        "allergens": "dairy, eggs, nightshade, allium (chive, citrus, honey, vinegar, canola oil, gluten/dairy cross contamination on potatoes",
+        "allergens": "dairy, eggs, nightshade, allium, chive, citrus, honey, vinegar, canola oil, gluten/dairy cross contamination on potatoes",
         "tableside": "Our broccoli and cheddar omelet with spinach and crispy potatoes"
     },
     {
         "id": 14,
         "name": "Handmade Ricotta Ravioli",
-        "menuDescription": "sweet corn saute, fresh basil sauce, and pepperconr breadcrumbs",
+        "menuDescription": "sweet corn saute, fresh basil sauce, and peppercorn breadcrumbs",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "entree, appetizer",
+        "category": "brunch/lunch/dinner",
         "components": [
             [
                 " Build : Six ricotta ravioli, parm stock (contains allium), grated parm, butter "
@@ -399,7 +402,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "entree, appetizer",
+        "category": "brunch/lunch/dinner",
         "components": [
             [
                 " Build : Risotto, cauliflower, parm stock, truffle butter, grated parm, creme fraiche, salt, lemon "
@@ -425,7 +428,7 @@ export const foods = [
         "meal": [
             ["brunch"],
         ],
-        "category": "entree",
+        "category": "brunch",
         "components": [
             [
                 " Pancake : AP flour, baking powder, salt, sugar, eggs, buttermilk, butter, poppy seeds "
@@ -448,7 +451,7 @@ export const foods = [
         "meal": [
             ["brunch"],
         ],
-        "category": "entree",
+        "category": "brunch",
         "components": [
             [
                 " Build : scrambled eggs finished with Italian truffle butter, served with crisp potatoes, sauteed spinach, and a mixed green salad with a pink peppercorn vinaigrette "
@@ -461,7 +464,7 @@ export const foods = [
             ],
         ],
         "allergens": "eggs, dairy, capsaicin, gluten , nightshade",
-        "tableside": "scrambled eggs and truffle butter, served alongside a salad with a pink pepperconr vinagrette."
+        "tableside": "scrambled eggs and truffle butter, served alongside a salad with a pink peppercorn vinagrette."
     },
     {
         "id": 18,
@@ -471,7 +474,7 @@ export const foods = [
             ["brunch, "],
             ["lunch"],
         ],
-        "category": "entree",
+        "category": "brunch/lunch",
         "components": [
             [
                 " Burger : 8 oz La Frieda short rib patty "
@@ -499,7 +502,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "brunch/lunch/dinner",
         "components": [
             [
                 " Caesar Salad Build : red and green romaine, red and green endive, parmesan, chives, tomato brushed croutons "
@@ -739,7 +742,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "lunch/dinner ",
         "components": [
             [
                 " build : sticky rice, teriyaki ponzu sauce, veg mix (charred bok choy leaves, broccoli, seared shiitake, poached daikon, carrot curls), salmon, cilantro, chili crisp garnish "
@@ -803,7 +806,7 @@ export const foods = [
         "meal": [
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "dinner entree",
         "components": [
             [
                 " chicken : brined overnight in buttermilk, thyme, lemon peel, ginger, lactic acid, onion powder, garlic, brown sugar, salt, water. It is breaded in flour, semolina, salt, cumin, coriander, rice flour, and mustard powder. "
@@ -829,7 +832,7 @@ export const foods = [
         "meal": [
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "dinner entree",
         "components": [
             [
                 " Branzino filet : 7oz "
@@ -860,7 +863,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "brunch/lunch/dinner",
         "components": [
             [
                 " ricotta ravioli : 6 per order, parm stock (contains allium), grated parm, butter "
@@ -891,7 +894,7 @@ export const foods = [
         "meal": [
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "dinner entree",
         "components": [
             [
                 " build : 6oz spaghetti, marinated artichokes, 3 shrimp, 3 scallops "
@@ -923,7 +926,7 @@ export const foods = [
         "meal": [
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "dinner entree",
         "components": [
             [
                 " short rib braise : black pepper, vidalia onion, celery, carrot, fennel, red fresno pepper, oregano, thyme, chicken broth, tomato paste, dry red wine "
@@ -956,7 +959,7 @@ export const foods = [
         "meal": [
             ["dinner"]
         ],
-        "category": "entree",
+        "category": "dinner entree",
         "components": [
             [
                 " onion soubise : cider vin, apples, brown sugar, parsnip, onion"
@@ -1083,7 +1086,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": "our old fashioned."
+        "notes": "our old fashioned. "
     },
     {
         "id": 41,
@@ -1105,7 +1108,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "like a lemondrop"
     },
     {
         "id": 42,
@@ -1149,7 +1152,7 @@ export const foods = [
         ],
         "allergens": "nuts (orgeat), coconut",
         "tableside": "",
-        "notes": "tiki cocktail. can be made without alcohol"
+        "notes": "tiki cocktail. can be made without alcohol."
     },
     {
         "id": 44,
@@ -1174,7 +1177,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "seasonal sangria listed on the drink specials card"
     },
     {
         "id": 45,
