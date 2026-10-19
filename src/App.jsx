@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <div>
-        <MenuMain foods={foods}/>
+        <MenuMain foods={foods} />
       </div>
 
 

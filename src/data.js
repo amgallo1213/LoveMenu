@@ -685,7 +685,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "appetizer ",
+        "category": "appetizer",
         "components": [
             [
                 " bread : honey, blended oil, AP flour, rye flour, salt, yeast, rolled oats, whole wheat flour, eggs "
@@ -974,139 +974,306 @@ export const foods = [
     },
     {
         "id": 36,
-        "name": "",
-        "menuDescription": "",
+        "name": "Potato Frites",
+        "menuDescription": "and charred onion remoulade",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "sides",
         "components": [
             [
-                " : "
+                " potato wedges: dusted with a house made garlic salt "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                "charred onion remoulade : charred ramps, shallots, scallion, mayo, Aleppo pepper, yellow mustard, chili powder, red wine vinegar, agave, salt, pepper"
             ],
         ],
-        "allergens": "",
+        "allergens": "gluten (cross contamination in fryer), allium, nightshade, capsicum, egg (mayo), alcohol, vinegar, soy, canola oil, garlic",
         "tableside": "",
         "notes": ""
     },
     {
         "id": 37,
-        "name": "",
-        "menuDescription": "",
+        "name": "Cornbread",
+        "menuDescription": "Warm, butter brushed roasted garlic cornbread",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "sides",
         "components": [
             [
-                " : "
+                " cornbread : AP flour, cornmeal, sugar, light brown sugar, baking powder, baking soda, kosher salt, milk, drawn butter, eggs, blended oil, roasted garlic bulb "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " garnish : slated honey butter"
             ],
         ],
-        "allergens": "",
+        "allergens": "gluten, dairy, allium, eggs, canola oil, garlic",
         "tableside": "",
-        "notes": ""
+        "notes": "not overly garlicy. no garlic pieces in the cornbread"
     },
     {
         "id": 38,
-        "name": "",
-        "menuDescription": "",
+        "name": "Charred Broccoli",
+        "menuDescription": "long-hot aioli, pickled fennel & parmesan crisps",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "sides",
         "components": [
             [
-                " : "
+                "broccoli florets : blanched in water & salt, tossed in lemon juice "
             ],
             [
-                " : "
+                "long hot aioli : mayo, black pepper, slat, confit garlic cloves, roasted long hots, pickled long hots (long hots & white ine vinegar), dried oregano "
             ],
             [
-                " : "
+                "pickled fennel : fennel, champagne vinegar, sugar, salt, water "
+            ],
+            [
+                "garnish : chives, parm frico, torn basil, aleppo pepper"
             ],
         ],
-        "allergens": "",
+        "allergens": "egg, vinegar, allium, dairy, citrus, soy, capsicum, capsaicin, garlic (in aioli)",
         "tableside": "",
         "notes": ""
     },
     {
         "id": 39,
-        "name": "",
+        "name": "Broken Arrow",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "drinks",
         "components": [
             [
-                " : "
+                "Hornitos Reposado, prickly pear puree, lime juice, agave "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " cayenne/sugar/salt rim "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "our margarita "
     },
     {
         "id": 40,
-        "name": "",
+        "name": "The Legend",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "drinks",
         "components": [
             [
-                " : "
+                " Dad's Hat 'The Love Select Barrel' Rye, Evan Williams Black Bourbon, Gran Classico Bitter Aperitivo, maple syrup "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                "garnish : orange twist "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "our old fashioned."
     },
     {
         "id": 41,
-        "name": "CUT AND PASTE NEW!!",
+        "name": "The Fig & The Lemon",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "drinks",
+        "components": [
+            [
+                " Limoncello, Lillet Blanc, lemon juice, fig syrup "
+            ],
+            [
+                " lemon twist "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 42,
+        "name": "Dreamweaver",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " grapefruit juice, St. Germain, sparkling wine (Simonet Blanc de Blanc) "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "champagne cocktail"
+    },
+    {
+        "id": 43,
+        "name": "Love Island",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " Bacardi Superior Rum, Captain Morgan, Combier, passion fruit puree, cream of coconut, vanilla syrup, orgeat, lime juice, jamaican bitters, pinch salt "
+            ],
+            [
+                " garnish : .25oz Bacardi Black Rum, orange wedge, rosemary sprig "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "nuts (orgeat), coconut",
+        "tableside": "",
+        "notes": "tiki cocktail. can be made without alcohol"
+    },
+    {
+        "id": 44,
+        "name": "Blackberry Basil Sangria",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " batch: vodka, brandy, combier, chablis, blackberry puree, basil syrup, orange juice, lemon juice "
+            ],
+            [
+                " 5 oz batch topped with 1 oz club soda "
+            ],
+            [
+                " garnish : 1 basil leaf "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 45,
+        "name": "Clean Livin'",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " blueberry hibiscus tea, simple syrup, lime juice, fever tree sparkling grapefruit "
+            ],
+            [
+                " garnish : lime, rosemary sprig "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "virgin cocktail"
+    },
+    {
+        "id": 46,
+        "name": "The Extra Mile",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " common well vodka, bacardi superior rum, averna amaro, la colombe coffee, demerara syrup "
+            ],
+            [
+                "garnish : pinch salt "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "our espresso martini"
+    },
+    {
+        "id": 47,
+        "name": "Turn Down Service",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " Common Well Vodka, creme de menthe, kahlua, bailey's irish cream, half & half, pinch salt "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "a grasshopper"
+    },
+    {
+        "id": 48,
+        "name": "Killer Tomato",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " Common Well Vodka, bloody mary mix, ice "
+            ],
+            [
+                " garnish : lime/olive/pepperoncini skewer "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "Ah-taaaaaack of the Killer ToMAYtoes"
+    },
+    {
+        "id": 49,
+        "name": "Golden Rule",
+        "menuDescription": "Fall bourbon smash, quince, honey, spice and citrus",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
         "components": [
             [
                 " : "
@@ -1122,92 +1289,321 @@ export const foods = [
         "tableside": "",
         "notes": ""
     },
+    {
+        "id": 50,
+        "name": "Frozen Orange Crush",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 51,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 52,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 53,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 54,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 55,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 56,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 57,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "drinks",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+
+
+
+
+    // {
+    //     "id": 41,
+    //     "name": "CUT AND PASTE NEW!!",
+    //     "menuDescription": "",
+    //     "meal": [
+    //         ["brunch"],
+    //         ["lunch"],
+    //         ["dinner"]
+    //     ],
+    //     "category": "",
+    //     "components": [
+    //         [
+    //             " : "
+    //         ],
+    //         [
+    //             " : "
+    //         ],
+    //         [
+    //             " : "
+    //         ],
+    //     ],
+    //     "allergens": "",
+    //     "tableside": "",
+    //     "notes": ""
+    // },
 ]
 
 export const drinks = [
+    // {
+    //     "id" : 101,
+    //     "name" : "Broken Arrow",
+    //     "category" : "cocktail",
+    //     "notes" : "margarita"
+    // },
+    // {
+    //     "id" : 102,
+    //     "name" : "Sandy Cove Sauvignon Blanc",
+    //     "category" : "wine",
+    //     "notes" : "2024 vintage"
+    // },
     {
-        "id" : 101,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 103,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 102,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 104,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 103,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 105,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 104,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 106,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 105,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 107,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 106,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 108,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 107,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 109,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 108,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 110,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 109,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 111,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 110,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 112,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 111,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 113,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
     {
-        "id" : 112,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
-    },
-    {
-        "id" : 113,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
-    },
-    {
-        "id" : 114,
-        "name" : "",
-        "type" : "",
-        "notes" : ""
+        "id": 114,
+        "name": "",
+        "type": "",
+        "notes": ""
     },
 ]
 

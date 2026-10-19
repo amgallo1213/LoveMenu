@@ -1,34 +1,39 @@
 import React, { useState, useEffect } from 'react'
 import Card from './Card'
+import DrinkCard from './DrinkCard'
 
 
-const MenuMain = ({ foods }) => {
+const MenuMain = ({ foods, drinks }) => {
     const [filteredFoods, setFilteredFoods] = useState([])
+    const [ filteredDrinks, setFilteredDrinks ] = useState([])
     const [searchQuery, setSearchQuery] = useState("")
     const [category, setCategory] = useState("")
+    
 
     useEffect(() => {
         setFilteredFoods(foods)
+        setFilteredDrinks(drinks)
     }, [])
 
     useEffect(() => {
         const query = searchQuery.toLowerCase()
-        const result = foods.filter(
+        const foodResult = foods.filter(
             (food) =>
                 food.name.toLowerCase().includes(query) ||
-                food.category.toLowerCase().includes(query)
+                food.category.toLowerCase().includes(query)      
         )
 
         setFilteredFoods(
             category
-                ? result.filter((food) => food.category === category)
-                : result
+                ? foodResult.filter((food) => food.category === category ) 
+                : foodResult
         )
     }, [searchQuery, category])
 
     const clearSearch = () => {
         setSearchQuery("")
         setCategory("")
+
     }
 
     return (
@@ -60,7 +65,7 @@ const MenuMain = ({ foods }) => {
                             )
                         )}
                     </select>
-
+                
                     <button onClick={clearSearch}>Clear Search</button>
                 </div>
 
@@ -74,6 +79,13 @@ const MenuMain = ({ foods }) => {
                         <Card key={id} food={food} />
                     ))
                 }
+
+
+          {/* {
+            filteredDrinks.map((drink, index) => (
+              <DrinkCard key={index} drink={drink} />
+            ))
+          } */}
             </section>
 
 
