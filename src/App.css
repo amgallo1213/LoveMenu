@@ -10,6 +10,13 @@ li  {
   list-style-type: circle;
 }
 
+.search-input, .select, button  {
+  height: 36px;
+  width: 120px;
+  margin: 8px;
+  padding: 8px;
+}
+
 
 #center {
   display: flex;
