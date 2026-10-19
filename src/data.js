@@ -1050,7 +1050,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 "Hornitos Reposado, prickly pear puree, lime juice, agave "
@@ -1072,7 +1072,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " Dad's Hat 'The Love Select Barrel' Rye, Evan Williams Black Bourbon, Gran Classico Bitter Aperitivo, maple syrup "
@@ -1094,7 +1094,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " Limoncello, Lillet Blanc, lemon juice, fig syrup "
@@ -1116,7 +1116,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " grapefruit juice, St. Germain, sparkling wine (Simonet Blanc de Blanc) "
@@ -1135,7 +1135,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " Bacardi Superior Rum, Captain Morgan, Combier, passion fruit puree, cream of coconut, vanilla syrup, orgeat, lime juice, jamaican bitters, pinch salt "
@@ -1160,7 +1160,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " batch: vodka, brandy, combier, chablis, blackberry puree, basil syrup, orange juice, lemon juice "
@@ -1185,7 +1185,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " blueberry hibiscus tea, simple syrup, lime juice, fever tree sparkling grapefruit "
@@ -1210,7 +1210,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " common well vodka, bacardi superior rum, averna amaro, la colombe coffee, demerara syrup "
@@ -1232,7 +1232,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " Common Well Vodka, creme de menthe, kahlua, bailey's irish cream, half & half, pinch salt "
@@ -1251,7 +1251,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " Common Well Vodka, bloody mary mix, ice "
@@ -1273,7 +1273,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
                 " : "
@@ -1292,47 +1292,38 @@ export const foods = [
     {
         "id": 50,
         "name": "Frozen Orange Crush",
-        "menuDescription": "",
+        "menuDescription": "Local Vodka, Grand Marnier, Fresh Clementine and Cane Sugar",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "cocktails",
         "components": [
             [
-                " : "
-            ],
-            [
-                " : "
-            ],
-            [
-                " : "
+                " slushy "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "Frozen cocktail"
     },
     {
         "id": 51,
-        "name": "",
+        "name": "Love City 'Unity'",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " American IPA from Philly "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " approachable, citrusy, low bitterness, crisp finish "
             ],
         ],
         "allergens": "",
@@ -1341,23 +1332,20 @@ export const foods = [
     },
     {
         "id": 52,
-        "name": "",
+        "name": "Big Oyster 'Solar Power'",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " Wheat beer from Milton, DE "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " Belgian-style wheat beer brewed with coriander and oranges. light and refreshing finish "
             ],
         ],
         "allergens": "",
@@ -1366,20 +1354,20 @@ export const foods = [
     },
     {
         "id": 53,
-        "name": "",
+        "name": "Levante Craft Pilsner",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " pilsner from West Chester, PA "
             ],
             [
-                " : "
+                " pale golden hue & a crisp clean finish "
             ],
             [
                 " : "
@@ -1387,27 +1375,24 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "pilsners are light and crisp pale lagers (fermented slow and cool)"
     },
     {
         "id": 54,
-        "name": "",
+        "name": "Victory 'Festbier' Octoberfest",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " Downingtown, PA "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " subtle sweetness and malt-forward freshness. full bodied, smooth, slight hint of hops "
             ],
         ],
         "allergens": "",
@@ -1416,23 +1401,20 @@ export const foods = [
     },
     {
         "id": 55,
-        "name": "",
+        "name": "Downeast 'Cider Donut'",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " cider from Boston "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " fresh-pressed apple cider with cinnamon, brown sugar, and hints of vanilla "
             ],
         ],
         "allergens": "",
@@ -1441,20 +1423,20 @@ export const foods = [
     },
     {
         "id": 56,
-        "name": "",
+        "name": "Athletic Brewing 'Run Wild' Non-Alcoholic IPA",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "beer",
         "components": [
             [
-                " : "
+                " N/A IPA from Millford, CT "
             ],
             [
-                " : "
+                " brewed with 5 northwest hops, approachable bitterness with a balanced malt body. 65 calories "
             ],
             [
                 " : "
@@ -1466,6 +1448,53 @@ export const foods = [
     },
     {
         "id": 57,
+        "name": "Miller High Life",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "beer",
+        "components": [
+            [
+                " American Lager "
+            ],
+            [
+                " crisp, highly effervescent taste. smooth dry finish "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 58,
+        "name": "Guinness Draught Stout",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "beer",
+        "components": [
+            [
+                " Irish dry stout - Dublin "
+            ],
+            [
+                " roasted barley, rich malted flavor with hints of coffee, cocoa, and sometimes a dark beer or caramel note "
+            ],
+            [
+                " nitro can "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 59,
         "name": "",
         "menuDescription": "",
         "meal": [
@@ -1473,7 +1502,207 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "drinks",
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 60,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 61,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 62,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 63,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 64,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 65,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 66,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 67,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
         "components": [
             [
                 " : "
@@ -1520,7 +1749,7 @@ export const foods = [
     // },
 ]
 
-export const drinks = [
+export const cocktails = [
     // {
     //     "id" : 101,
     //     "name" : "Broken Arrow",
