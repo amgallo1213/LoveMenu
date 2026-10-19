@@ -1126,7 +1126,88 @@ export const foods = [
 
 export const drinks = [
     {
-
+        "id" : 101,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 102,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 103,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 104,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 105,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 106,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 107,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 108,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 109,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 110,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 111,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 112,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 113,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
+    },
+    {
+        "id" : 114,
+        "name" : "",
+        "type" : "",
+        "notes" : ""
     },
 ]
 

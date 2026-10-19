@@ -5,6 +5,7 @@ import { foods } from './data'
 import MenuMain from './components/MenuMain'
 
 
+
 function App() {
 
   const [isVisible, setIsVisible] = useState(true)
