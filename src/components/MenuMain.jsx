@@ -66,7 +66,7 @@ const MenuMain = ({ foods, drinks }) => {
                         )}
                     </select>
                 
-                    <button onClick={clearSearch}>Clear Search</button>
+                    <button className="button" onClick={clearSearch}>Clear Search</button>
                 </div>
 
             </section>
