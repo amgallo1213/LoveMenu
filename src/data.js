@@ -1574,7 +1574,7 @@ export const foods = [
         "category": "wine",
         "components": [
             [
-                " elegent and restrained. grazzy traditional NZ sauv blanc but less aggressive. rounder and richer in flavor than most. "
+                " elegent and restrained. grassy traditional NZ sauv blanc but less aggressive. rounder and richer in flavor than most. "
             ],
         ],
         "allergens": "",
