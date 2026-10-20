@@ -954,25 +954,28 @@ export const foods = [
     },
     {
         "id": 35,
-        "name": "Pork Chop",
-        "menuDescription": "",
+        "name": "Autumn Pork Chop",
+        "menuDescription": "charred sweet potatoes & apples, whipped parsnip, mustard-scented bourbon cider glaze",
         "meal": [
             ["dinner"]
         ],
         "category": "dinner entree",
         "components": [
             [
-                " onion soubise : cider vin, apples, brown sugar, parsnip, onion"
+                " Build: Roasted sweet potatoes, apple mustard bourbon glaze, parsnip apple soubise, mustard frill"
             ],
             [
-                "veggies : roasted sweet potatoes, apples, parsnips (roasted with paprika, cumin, chili flake) "
+                " Green Apple Parsnip Soubise: Spanish onions, green apples, parsnips, blended oil, apple cider vinegar, Light brown sugar, garlic cloves, white peppercorns, mustard seeds, sachet, rosemary, thyme "
             ],
             [
-                " cider-mustard glaze: ginger, rosemary, mustard, bourbon, apple cider vin, borwn sugar, pickled mustard seeds"
+                " Cider Mustard Bourbon Glaze: Apple cider vinegar, apple cider, bourbon, mustard powder, pickled mustard seeds, ginger, rosemary, butter ",
+                " Pork Brine: salt, garlic, onion, mustard powder, rosemary, thyme, lemon peel, fennel seed, coriander, honey, Worcestershire ",
+                " Pork Cutlet Marinade: Dijon mustard, honey, blended oil. Salt, lemon juice/zest, Worcestershire, black pepper, confit garlic, rosemary",
+                "Spiced Sweet Roasted Potatoes: sweet potatoes, blackening seasoning, olive oil, salt"
             ],
         ],
-        "allergens": "dairy, fish (worcestershire sauce in pork chop brine), allium, alcohol, mustard, capsaicum",
-        "tableside": "",
+        "allergens": "Fin fish (Worcestershire), apple, allium, citrus, mustard, pepper, capsaicin (blackening seasoning on sweet potatoes), Dairy (removable), Alcohol (removable).",
+        "tableside": "Our bourbon cider glazed pork chop with roasted sweet potatoes and seared apples",
         "notes": ""
     },
     {
@@ -1108,7 +1111,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": "like a lemondrop"
+        "notes": "gimlet / lemondrop-ish"
     },
     {
         "id": 42,
@@ -1279,7 +1282,7 @@ export const foods = [
         "category": "cocktails",
         "components": [
             [
-                " : "
+                " bourbon, quince,  "
             ],
             [
                 " : "
@@ -1290,7 +1293,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "very very very atumnual cocktail"
     },
     {
         "id": 50,
@@ -1498,23 +1501,20 @@ export const foods = [
     },
     {
         "id": 59,
-        "name": "",
-        "menuDescription": "",
+        "name": "Conquilla Cava Brut",
+        "menuDescription": "Penendes, Spain - NV",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " xarel-lo, macabeo, parellada "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " bright, crips citrus top notes play over a toasty, complex finish "
             ],
         ],
         "allergens": "",
@@ -1523,23 +1523,20 @@ export const foods = [
     },
     {
         "id": 60,
-        "name": "",
-        "menuDescription": "",
+        "name": "Ca Furlan Prosecco Rose",
+        "menuDescription": "Veneto, Italy - 2025",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " 90% glera, 10% pinot noir "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " fresh, crisp and bright with notes of light fruit and a hint of citrus, very dry finish "
             ],
         ],
         "allergens": "",
@@ -1548,23 +1545,17 @@ export const foods = [
     },
     {
         "id": 61,
-        "name": "",
-        "menuDescription": "",
+        "name": "Parolvini 'Il Nido' Pinot Grigio",
+        "menuDescription": "delle Venezie, Italy - 2025",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
-            ],
-            [
-                " : "
-            ],
-            [
-                " : "
+                " lemon, lime zest, peach, floral, very crisp and bright "
             ],
         ],
         "allergens": "",
@@ -1573,23 +1564,17 @@ export const foods = [
     },
     {
         "id": 62,
-        "name": "",
-        "menuDescription": "",
+        "name": "Sandy Cove Sauvignon Blanc",
+        "menuDescription": "Marlborough, NZ - 2025",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
-            ],
-            [
-                " : "
-            ],
-            [
-                " : "
+                " elegent and restrained. grazzy traditional NZ sauv blanc but less aggressive. rounder and richer in flavor than most. "
             ],
         ],
         "allergens": "",
@@ -1598,17 +1583,17 @@ export const foods = [
     },
     {
         "id": 63,
-        "name": "",
-        "menuDescription": "",
+        "name": "Jasci Pecorino",
+        "menuDescription": "Cheiti, Abruzzo, Italy - 2025",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " crisp minerality while maintaining a medium body, a fair bit of saltiness, finish of white-pulp fruit "
             ],
             [
                 " : "
@@ -1619,21 +1604,21 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "pairs excellent with all of our food"
     },
     {
         "id": 64,
-        "name": "",
-        "menuDescription": "",
+        "name": "Mas La Chevaliere Chardonnay",
+        "menuDescription": "Pays d'Oc, Languedoc, France - 2024",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " 5 month aged in stainless steel tanks. no barrel aging. nose has hints of white fleshed fruit and citrus. fresh and fruity on the palate wiht a salty finish. good acidity and minerality. "
             ],
             [
                 " : "
@@ -1644,52 +1629,52 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "if they want a buttery chard, they need to look to bottles (ex. Cakebread Chardonnay)"
     },
     {
         "id": 65,
-        "name": "",
-        "menuDescription": "",
+        "name": "Pinot Project Pinot Noir",
+        "menuDescription": "Central Coast, CA - 2002",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " elegant and vibrant profile with a ruby red hue. "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " aromas of pomegranate, cherry, and baking spice with a hint of dried rose petals. vibrant aromatics are a lovely companion to the firm, fine tannins and balanced acidity. "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "best red to pair with our food"
     },
     {
         "id": 66,
-        "name": "",
-        "menuDescription": "",
+        "name": "Notes Cabernet Sauvignon",
+        "menuDescription": "Napa, CA - 2002",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "wine",
         "components": [
             [
-                " : "
+                " 76% cabernet sauvignon, 14% merlot, 5% petit syrah, 5% zinfandel "
             ],
             [
-                " : "
+                " ripe, luscious, bod, and robust. "
             ],
             [
-                " : "
+                " full bodied and structured mouthfeel featuring luscious layers of mocha, fresh berries, black currant and subtle black pepper. "
+            ],
+            [
+                " smooth and balanced finish wiht lingering sweet oak and rich vanilla "
             ],
         ],
         "allergens": "",
@@ -1698,6 +1683,125 @@ export const foods = [
     },
     {
         "id": 67,
+        "name": "Astica Malbec",
+        "menuDescription": "Cuyo, Argentina - 2024",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "wine",
+        "components": [
+            [
+                " fresh ripe berry, black and green pepper, lackinv in oak, with soft subtle tannins and a medium body "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 68,
+        "name": "Chiorri Sangiovese",
+        "menuDescription": "Umbria, Italy - 2002",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "wine",
+        "components": [
+            [
+                " temperature-controlled fermentation in steel. aged on fine lees for 6 months before bottling. "
+            ],
+            [
+                " floral, fruity, red rose, cherry, violet. fresh good acidity, soft tannins. "
+            ],
+            [
+                " intense and persistent, medium bodied "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "most flavorful of our wines by the glass"
+    },
+    {
+        "id": 69,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 70,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 71,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch, "],
+            ["lunch, "],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 72,
         "name": "",
         "menuDescription": "",
         "meal": [
