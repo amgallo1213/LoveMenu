@@ -789,7 +789,19 @@ export const foods = [
         "category": "appetizer",
         "components": [
             [
-                " cheeses : a selection of cow, goat, and sheep "
+                " Vermont Creamery goat (Websterville, VT) - bright, tangy goat cheese with Meyer lemon, thyme "
+            ],
+            [
+                "Old Quebec 3 Year Vintage Cheddar (St Lawrence River Valley Quebec [the milk], then aged in Lancaster County PA) - crisp, clean, super sharp, tangy, dry & crumbly texture, bright saltiness"
+            ],
+            [
+                "Fromager d'Affinois - Le Fromager (Rhone-Alps, FR) - buttery, sweet, light and tangy double cream cow's milk cheese"
+            ],
+            [
+                "Ewephoria (The Netherlands) - Dutch style, firm and sweet like butterscotch with great crystallization"
+            ],
+            [
+                "Roth Kase Buttermilk Blue (WI) - creamy, tangy blue cheese, cellar-aged for over two months. mild for a blue."
             ],
             [
                 " garnishes : toast, wine soaked raisins, spiced pepitas, candied pecans, cornichons, seasonal fruit, rosemary "
@@ -1064,6 +1076,9 @@ export const foods = [
             [
                 " cayenne/sugar/salt rim "
             ],
+            [
+                "tulip glass"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1086,6 +1101,9 @@ export const foods = [
             [
                 "garnish : orange twist "
             ],
+            [
+                "rocks glass. big rock"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1103,11 +1121,14 @@ export const foods = [
         "category": "cocktails",
         "components": [
             [
-                " Limoncello, Lillet Blanc, lemon juice, fig syrup "
+                " hendrick's gin, Limoncello, Lillet Blanc, lemon juice, fig syrup "
             ],
             [
                 " lemon twist "
             ],
+            [
+                "coupe"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1127,6 +1148,9 @@ export const foods = [
             [
                 " grapefruit juice, St. Germain, sparkling wine (Simonet Blanc de Blanc) "
             ],
+            [
+                "flute"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1150,7 +1174,7 @@ export const foods = [
                 " garnish : .25oz Bacardi Black Rum, orange wedge, rosemary sprig "
             ],
             [
-                " : "
+                " beer glass "
             ],
         ],
         "allergens": "nuts (orgeat), coconut",
@@ -1177,6 +1201,9 @@ export const foods = [
             [
                 " garnish : 1 basil leaf "
             ],
+            [
+                "wine glass"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1200,7 +1227,7 @@ export const foods = [
                 " garnish : lime, rosemary sprig "
             ],
             [
-                " : "
+                " highball "
             ],
         ],
         "allergens": "",
@@ -1224,6 +1251,9 @@ export const foods = [
             [
                 "garnish : pinch salt "
             ],
+            [
+                "coupe"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1243,6 +1273,9 @@ export const foods = [
             [
                 " Common Well Vodka, creme de menthe, kahlua, bailey's irish cream, half & half, pinch salt "
             ],
+            [
+                "coupe"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1265,10 +1298,13 @@ export const foods = [
             [
                 " garnish : lime/olive/pepperoncini skewer "
             ],
+            [
+                "tulip glass"
+            ]
         ],
-        "allergens": "",
+        "allergens": "soy (tamari), fish (Worcestershire sauce)",
         "tableside": "",
-        "notes": "Ah-taaaaaack of the Killer ToMAYtoes"
+        "notes": "Ah-taaaaaack of the Killer ToMAYtoes "
     },
     {
         "id": 49,
@@ -1282,13 +1318,10 @@ export const foods = [
         "category": "cocktails",
         "components": [
             [
-                " bourbon, quince,  "
+                " Jim Beam bourbon, apple-quince-honey spiced simple syrup, rosemary garnish  "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                "rocks glass, loose rocks"
             ],
         ],
         "allergens": "",
@@ -1541,7 +1574,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "light pink color. really pretty!"
     },
     {
         "id": 61,
@@ -1655,8 +1688,8 @@ export const foods = [
     },
     {
         "id": 66,
-        "name": "Notes Cabernet Sauvignon",
-        "menuDescription": "Napa, CA - 2002",
+        "name": "Cult Wine Co. All Eyes",
+        "menuDescription": "Lodi, CA - 2021",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -1665,21 +1698,15 @@ export const foods = [
         "category": "wine",
         "components": [
             [
-                " 76% cabernet sauvignon, 14% merlot, 5% petit syrah, 5% zinfandel "
+                " fruit forward and savory sensation "
             ],
             [
-                " ripe, luscious, bod, and robust. "
-            ],
-            [
-                " full bodied and structured mouthfeel featuring luscious layers of mocha, fresh berries, black currant and subtle black pepper. "
-            ],
-            [
-                " smooth and balanced finish wiht lingering sweet oak and rich vanilla "
+                " rich dark fruit takes center stage on the palate, with a dynamic finish ('a racy acidity') "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "replacing Notes Cab for a few weeks"
     },
     {
         "id": 67,
@@ -1727,8 +1754,8 @@ export const foods = [
     },
     {
         "id": 69,
-        "name": "",
-        "menuDescription": "",
+        "name": "Santo Cristo 'ZaZa' Garnacha Rose",
+        "menuDescription": "Campo de Borja, SP - 2025",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -1737,13 +1764,13 @@ export const foods = [
         "category": "",
         "components": [
             [
-                " : "
+                " a fruit driven rosé with great complexity that will stand up to a variety of foods.  "
             ],
             [
-                " : "
+                " Fermentation of rosé with wood, followed by sur lies aging "
             ],
             [
-                " : "
+                " Raspberry pink color, intense aromas of berry fruits, cirsp and well-balanced acidity, creamy and long finish "
             ],
         ],
         "allergens": "",
