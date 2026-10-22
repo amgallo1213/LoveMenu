@@ -1836,7 +1836,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "bottled wine",
         "components": [
             [
                 " fresh and youthful, with hints of peaches, mandarin and sumac spice. "
