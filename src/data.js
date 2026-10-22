@@ -1829,8 +1829,8 @@ export const foods = [
     },
     {
         "id": 72,
-        "name": "",
-        "menuDescription": "",
+        "name": "Chateau Musar 'Jeune' Cinsault/Mouvedre Rose",
+        "menuDescription": "Bekaa Valley, Lebannon - 2022",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -1839,18 +1839,15 @@ export const foods = [
         "category": "",
         "components": [
             [
-                " : "
+                " fresh and youthful, with hints of peaches, mandarin and sumac spice. "
             ],
             [
-                " : "
-            ],
-            [
-                " : "
+                " juicy fruit notes that develop in the glass as the wine sits "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "pairs excellently with Mediterranean cuisine"
     },
 
 
