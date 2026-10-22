@@ -1779,48 +1779,48 @@ export const foods = [
     },
     {
         "id": 70,
-        "name": "",
-        "menuDescription": "",
+        "name": "Broc Cellars 'Love White' picpoul/Clairette Blend",
+        "menuDescription": "Berkley, CA - 2022",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "bottled wine",
         "components": [
             [
-                " : "
+                " sourced from grapes in various vinyards across northern CA "
             ],
             [
-                " : "
+                " bright, crisp with a lingering complexity "
             ],
             [
-                " : "
+                " white florals and ripe apples "
             ],
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "pairs with cheeses, fish, poultry, and fried cuisine"
     },
     {
         "id": 71,
-        "name": "",
-        "menuDescription": "",
+        "name": "Daou Cabernet Sauvignon",
+        "menuDescription": "Paso Robles, CA - 2023",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "bottled wine",
         "components": [
             [
-                " : "
+                " aromas of red and black berry fruit, rose petals and just a touch of vanilla "
             ],
             [
-                " : "
+                " full bodied "
             ],
             [
-                " : "
+                " gripping fine tannins and a flood of berries "
             ],
         ],
         "allergens": "",
