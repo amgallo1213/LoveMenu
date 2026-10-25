@@ -108,7 +108,7 @@ export const foods = [
         ],
         "allergens": "gluten, dairy, allium, capsaicin, eggs, garlic, citrus, mustard",
         "tableside": "Savory hush puppies with honey butter",
-        "notes": "8 per order"
+        "notes": "6-8 per order"
     },
     {
         "id": 5,
@@ -180,7 +180,7 @@ export const foods = [
     {
         "id": 7,
         "name": "Ruby Red & Golden Beet Salad",
-        "menuDescription": "apples, walnuts, herb-yogurt dressing , local greens, lemon gastrique",
+        "menuDescription": "apples, walnuts, herb-yogurt dressing, local greens, lemon gastrique",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -206,7 +206,7 @@ export const foods = [
         ],
         "allergens": "allium, garlic (herb yogurt), alcohol, vinegar, citrus, nuts, capsaicin",
         "tableside": "Our ruby and golden beet salad with apples, toasted walnuts on a bed of herb-yogurt dressing",
-        "notes": "red wine and white wine vinegar bring a tartness to the beats, while the herb yogurt provides a creamy base to mellow out the sharper flavors of the vegetables."
+        "notes": "roasted earthy beets mixed with shaved fennel and apple slices, while the herb yogurt provides a creamy base to mellow out the sharper flavors of the vegetables."
     },
     {
         "id": 8,
@@ -215,6 +215,7 @@ export const foods = [
         "meal": [
             ["brunch, "],
             ["lunch"],
+            ["dinner"],
         ],
         "category": "appetizer",
         "components": [
@@ -245,7 +246,7 @@ export const foods = [
                 " shrimp sauce : heavy cream, tomato paste, water, shrimp shells (for stock), butter, garlic, shallot, celery, cubanelle, red bell pepper, scallions, white wine, chili suace, tabasco, black & white peppercorns, Aleppo, mace, red chili flake, cumin, fennel seed, thyme, dehydrated onion, paprika, vinegar "
             ],
             [
-                " Build : Four U12 shrimp served on top of house grits, with fried shishitos and shallots smothered in our shrimp sauce. Garnished with red mustard frill micro greens."
+                " Build : Six U12 shrimp served on top of house grits, with fried shishitos and shallots smothered in our shrimp sauce. Garnished with red mustard frill micro greens."
             ],
         ],
         "allergens": "shellfish, dairy, alcohol, allium, garlic (shrimp sauce), capsaicin, Capsicum, nightshade, tomato",
@@ -369,7 +370,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "brunch/lunch/dinner",
+        "category": "dinner entree",
         "components": [
             [
                 " Build : Six ricotta ravioli, parm stock (contains allium), grated parm, butter "
@@ -391,7 +392,8 @@ export const foods = [
             ],
         ],
         "allergens": "allium, garlic, nightshades, gluten, dairy, corn, vinegar, alcohol, citrus, honey, piperine (peppercorn breadcrumb)",
-        "tableside": "Housemade ricotta ravioli, sweet corn saute, fresh basil sauce, and breadcrumbs"
+        "tableside": "Housemade ricotta ravioli, sweet corn saute, fresh basil sauce, and breadcrumbs",
+        "notes" : "also served as an entree at lunch and brunch"
     },
     {
         "id": 15,
@@ -402,7 +404,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "brunch/lunch/dinner",
+        "category": "appetizer",
         "components": [
             [
                 " Build : Risotto, cauliflower, parm stock, truffle butter, grated parm, creme fraiche, salt, lemon "
@@ -419,7 +421,7 @@ export const foods = [
         ],
         "allergens": "Allium, dairy, alcohol, nuts, mustard, citrus, soy",
         "tableside": "Our truffle infused fall risotto with brandied butternut squash and pears, garnished with hazelnut, rosemary and chives",
-        "notes": "rich, savory, umami, fall flavors"
+        "notes": "rich, savory, umami, fall flavors. also served as an entree at lunch and brunch."
     },
     {
         "id": 16,
@@ -486,7 +488,7 @@ export const foods = [
                 " Long Hot Aioli : mayo, white wine vin, black pepper, salt, confit garlic, roasted long hots/pickled long hots "
             ],
             [
-                " Build : sesame seed bun, long hot aioli, burger patty, fried onions, pimento cheese "
+                " Build : sesame seed bun, long hot aioli, burger patty, fried onions, ciioer sharp cheddar cheese "
             ],
         ],
         "allergens": "dairy, gluten, allium, garlic, capsicum, capsaicin, canola oil, vinegar, mustard, egg, soy, nightshade",
@@ -539,7 +541,7 @@ export const foods = [
                 " Build : crumbled feta, pickled basil, picked dill, cherry tomatoes, Aleppo, chives, dry oregano "
             ],
             [
-                " Oregano Red Wine Vinaigrette : red wine vinegar, blended oil, sugar, whole black peppercorn, fennel seed, chili powder, oregano, thyme, xanthan "
+                " Oregano Red Wine Vinaigrette : red wine vinegar, blended oil, sugar, whole black peppercorn, fennel seed, chili powder, oregano, thyme, xantham "
             ],
             [
                 " Red Wine Pickled Red Onion : red wine vin, white wine vin, sugar, water, fennel seed, chili flake, thyme, oregano, garlic, salt, canola oil "
@@ -807,7 +809,7 @@ export const foods = [
                 " garnishes : toast, wine soaked raisins, spiced pepitas, candied pecans, cornichons, seasonal fruit, rosemary "
             ]
         ],
-        "allergens": "nuts, citrus (lemon in goat cheese), alcohol, gluten, ",
+        "allergens": "nuts, citrus (lemon in goat cheese), alcohol, gluten, allium (cornichon) ",
         "tableside": "",
         "notes": "1 oz portions of each cheese, nothing too adventurous, can switch out blue cheese if asked"
     },
@@ -867,39 +869,6 @@ export const foods = [
         "notes": ""
     },
     {
-        "id": 32,
-        "name": "Handmade Ricotta Ravioli",
-        "menuDescription": "sweet summer corn saute, fresh basil sauce and peppercorn breadcrumbs",
-        "meal": [
-            ["brunch, "],
-            ["lunch, "],
-            ["dinner"]
-        ],
-        "category": "brunch/lunch/dinner",
-        "components": [
-            [
-                " ricotta ravioli : 6 per order, parm stock (contains allium), grated parm, butter "
-            ],
-            [
-                " corn thyme beurre blanc : corn, parm stock, thyme, beurre blanc, white wine, cornstarch, butter, parmesan, lemon juice, salt "
-            ],
-            [
-                " basil arugula pistou : basil, arugula, roasted garlic, xanthan gum, EVOO, grated parm, salt, honey, lemon zest "
-            ],
-            ,
-            [
-                " slow roasted cherry tomatoes : cherry tomatoes, thyme, oregano, roasted garlic, sherry vinegar, fennel, EVOO, sugar, salt, black pepper "
-            ],
-            ,
-            [
-                " garlic black pepper breadcrumbs : ciabatta croutons, garlic oil, black pepper, salt "
-            ],
-        ],
-        "allergens": "allium, garlic, nightshade, gluten, diary, corn, vinegar, alcohol, citrus, honey, piperine",
-        "tableside": "house made ricotta ravioli, sweet corn saute, fresh basil sauce and breadcrumbs",
-        "notes": ""
-    },
-    {
         "id": 33,
         "name": "Shrimp & Scallop Spaghetti",
         "menuDescription": "lemon butter, grilled artichoke hearts, capers, herbs and parmesan frico",
@@ -954,7 +923,7 @@ export const foods = [
                 " sugo sauce : tomato paste, dry white wine, heavy cream, short rib braising liquid, canned tomtaotes, citrus (lemon juice - can be omitted) "
             ],
             [
-                " fried onions : battered with flour, ssemonlin, salt, cumin, coriander, rice flour and mustard powder "
+                " fried onions : battered with flour, semonlina, salt, cumin, coriander, rice flour and mustard powder "
             ],
             [
                 " garnish : chives, fresh basil, grated parm, fried onions "
@@ -980,11 +949,17 @@ export const foods = [
                 " Green Apple Parsnip Soubise: Spanish onions, green apples, parsnips, blended oil, apple cider vinegar, Light brown sugar, garlic cloves, white peppercorns, mustard seeds, sachet, rosemary, thyme "
             ],
             [
-                " Cider Mustard Bourbon Glaze: Apple cider vinegar, apple cider, bourbon, mustard powder, pickled mustard seeds, ginger, rosemary, butter ",
-                " Pork Brine: salt, garlic, onion, mustard powder, rosemary, thyme, lemon peel, fennel seed, coriander, honey, Worcestershire ",
-                " Pork Cutlet Marinade: Dijon mustard, honey, blended oil. Salt, lemon juice/zest, Worcestershire, black pepper, confit garlic, rosemary",
-                "Spiced Sweet Roasted Potatoes: sweet potatoes, blackening seasoning, olive oil, salt"
+                " Cider Mustard Bourbon Glaze: Apple cider vinegar, apple cider, bourbon, mustard powder, pickled mustard seeds, ginger, rosemary, butter "
             ],
+            [
+                " Pork Brine: salt, garlic, onion, mustard powder, rosemary, thyme, lemon peel, fennel seed, coriander, honey, Worcestershire "
+            ],
+            [
+                " Pork Cutlet Marinade: Dijon mustard, honey, blended oil. Salt, lemon juice/zest, Worcestershire, black pepper, confit garlic, rosemary"
+            ],
+            [
+                "Spiced Sweet Roasted Potatoes: sweet potatoes, blackening seasoning, olive oil, salt"
+            ]
         ],
         "allergens": "Fin fish (Worcestershire), apple, allium, citrus, mustard, pepper, capsaicin (blackening seasoning on sweet potatoes), Dairy (removable), Alcohol (removable).",
         "tableside": "Our bourbon cider glazed pork chop with roasted sweet potatoes and seared apples",
@@ -1025,7 +1000,7 @@ export const foods = [
                 " cornbread : AP flour, cornmeal, sugar, light brown sugar, baking powder, baking soda, kosher salt, milk, drawn butter, eggs, blended oil, roasted garlic bulb "
             ],
             [
-                " garnish : slated honey butter"
+                " garnish : salted honey butter"
             ],
         ],
         "allergens": "gluten, dairy, allium, eggs, canola oil, garlic",
@@ -1221,7 +1196,7 @@ export const foods = [
         "category": "cocktails",
         "components": [
             [
-                " blueberry hibiscus tea, simple syrup, lime juice, fever tree sparkling grapefruit "
+                " alpine tea, simple syrup, lime juice, fever tree sparkling grapefruit "
             ],
             [
                 " garnish : lime, rosemary sprig "
@@ -1408,9 +1383,6 @@ export const foods = [
             [
                 " pale golden hue & a crisp clean finish "
             ],
-            [
-                " : "
-            ],
         ],
         "allergens": "",
         "tableside": "",
@@ -1477,9 +1449,6 @@ export const foods = [
             [
                 " brewed with 5 northwest hops, approachable bitterness with a balanced malt body. 65 calories "
             ],
-            [
-                " : "
-            ],
         ],
         "allergens": "",
         "tableside": "",
@@ -1541,7 +1510,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " xarel-lo, macabeo, parellada "
@@ -1563,7 +1532,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " 90% glera, 10% pinot noir "
@@ -1585,7 +1554,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " lemon, lime zest, peach, floral, very crisp and bright "
@@ -1604,7 +1573,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " elegent and restrained. grassy traditional NZ sauv blanc but less aggressive. rounder and richer in flavor than most. "
@@ -1623,7 +1592,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " crisp minerality while maintaining a medium body, a fair bit of saltiness, finish of white-pulp fruit "
@@ -1648,7 +1617,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " 5 month aged in stainless steel tanks. no barrel aging. nose has hints of white fleshed fruit and citrus. fresh and fruity on the palate wiht a salty finish. good acidity and minerality. "
@@ -1673,7 +1642,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " elegant and vibrant profile with a ruby red hue. "
@@ -1695,7 +1664,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " fruit forward and savory sensation "
@@ -1711,16 +1680,16 @@ export const foods = [
     {
         "id": 67,
         "name": "Astica Malbec",
-        "menuDescription": "Cuyo, Argentina - 2024",
+        "menuDescription": "Mendoza, Argentina - 2024",
         "meal": [
             ["brunch, "],
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
-                " fresh ripe berry, black and green pepper, lackinv in oak, with soft subtle tannins and a medium body "
+                " fresh ripe berry, black and green pepper, lacking in oak, with soft subtle tannins and a medium body "
             ],
         ],
         "allergens": "",
@@ -1736,7 +1705,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "wine",
+        "category": "glass wine",
         "components": [
             [
                 " temperature-controlled fermentation in steel. aged on fine lees for 6 months before bottling. "
@@ -1761,7 +1730,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "",
+        "category": "glass wine",
         "components": [
             [
                 " a fruit driven rosé with great complexity that will stand up to a variety of foods.  "
