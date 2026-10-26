@@ -949,7 +949,7 @@ export const foods = [
                 " Build: Roasted sweet potatoes, apple mustard bourbon glaze, parsnip apple soubise, mustard frill"
             ],
             [
-                " Green Apple Parsnip Soubise: Spanish onions, green apples, parsnips, blended oil, apple cider vinegar, Light brown sugar, garlic cloves, white peppercorns, mustard seeds, sachet, rosemary, thyme "
+                " Green Apple Parsnip Soubise: Spanish onions, green apples, parsnips, blended oil, apple cider vinegar, Light brown sugar, garlic cloves, white peppercorns, mustard seeds, herb sachet(rosemary, thyme) "
             ],
             [
                 " Cider Mustard Bourbon Glaze: Apple cider vinegar, apple cider, bourbon, mustard powder, pickled mustard seeds, ginger, rosemary, butter "
@@ -966,7 +966,7 @@ export const foods = [
         ],
         "allergens": "Fin fish (Worcestershire), apple, allium, citrus, mustard, pepper, capsaicin (blackening seasoning on sweet potatoes), Dairy (removable), Alcohol (removable).",
         "tableside": "Our bourbon cider glazed pork chop with roasted sweet potatoes and seared apples",
-        "notes": ""
+        "notes": "glaze is rich, tangy & sweet. Soubise is a velvety, French onion sauce."
     },
     {
         "id": 36,
@@ -1525,12 +1525,15 @@ export const foods = [
                 " xarel-lo, macabeo, parellada "
             ],
             [
-                " bright, crips citrus top notes play over a toasty, complex finish "
+                " bright, crips citrus & green apple top notes play over a toasty, complex finish "
             ],
+            [
+                "smells like - honey, cakey"
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "goes well wiht fried chicken, risotto, cheese board"
     },
     {
         "id": 60,
@@ -1549,6 +1552,9 @@ export const foods = [
             [
                 " fresh, crisp and bright with notes of light fruit and a hint of citrus, very dry finish "
             ],
+            [
+                "crisp bubbles"
+            ]
         ],
         "allergens": "",
         "tableside": "",
