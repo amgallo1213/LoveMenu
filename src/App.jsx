@@ -3,6 +3,7 @@ import { useState } from 'react'
 import './App.css'
 import { foods } from './data'
 import MenuMain from './components/MenuMain'
+import DescriptiveWords from './components/DescriptiveWords'
 
 
 
@@ -14,6 +15,7 @@ function App() {
     <>
       <div>
         <MenuMain foods={foods} />
+        <DescriptiveWords />
       </div>
 
 

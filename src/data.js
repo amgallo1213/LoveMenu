@@ -108,7 +108,7 @@ export const foods = [
         ],
         "allergens": "gluten, dairy, allium, capsaicin, eggs, garlic, citrus, mustard",
         "tableside": "Savory hush puppies with honey butter",
-        "notes": "6-8 per order"
+        "notes": "6-8 per order. Hush puppies are small, savory, deep-fried cornmeal-based dumplings with a golden, crispy exterior and a soft, tender center."
     },
     {
         "id": 5,
@@ -731,6 +731,9 @@ export const foods = [
             [
                 "veggies etc. : breakfast/watermelon/ninja radishes, avocado, lime segements"
             ]
+            [
+                "kimchi tastes tangy, sour, salty, savory, and often spicy, with a slight natural fizz or effervescence from active probiotic fermentation"
+            ]
         ],
         "allergens": "allium, sesame, garlic, soy, citrus, vinegar, nightshade, canola oil, mustard seed, capsicum, corn, shellfish",
         "tableside": "Fresh line-caught tuna crudo with seeded rice crisps and kimchee vinaigrette",
@@ -797,13 +800,13 @@ export const foods = [
                 "Old Quebec 3 Year Vintage Cheddar (St Lawrence River Valley Quebec [the milk], then aged in Lancaster County PA) - crisp, clean, super sharp, tangy, dry & crumbly texture, bright saltiness"
             ],
             [
-                "Fromager d'Affinois - Le Fromager (Rhone-Alps, FR) - buttery, sweet, light and tangy double cream cow's milk cheese"
+                "Fromager d'Affinois - Le Fromager (Rhone-Alps, FR) - buttery, sweet, light and tangy double cream cow's milk cheese. higher butterfate percentage due to the addition of extra cream. bloomy rind. mushroomy, lemony."
             ],
             [
-                "Ewephoria (The Netherlands) - Dutch style, firm and sweet like butterscotch with great crystallization"
+                "Ewephoria (The Netherlands) - Dutch style Gouda, aged for 1 year, firm and sweet like butterscotch with great crystallization, nutty"
             ],
             [
-                "Roth Kase Buttermilk Blue (WI) - creamy, tangy blue cheese, cellar-aged for over two months. mild for a blue."
+                "Roth Kase Buttermilk Blue (WI) - creamy taste and texture, tangy yet mellow blue cheese, cellar-aged for over two months. mild for a blue."
             ],
             [
                 " garnishes : toast, wine soaked raisins, spiced pepitas, candied pecans, cornichons, seasonal fruit, rosemary "
@@ -1049,10 +1052,10 @@ export const foods = [
                 "Hornitos Reposado, prickly pear puree, lime juice, agave "
             ],
             [
-                " cayenne/sugar/salt rim "
+                "tulip glass, cayenne/sugar/salt rim "
             ],
             [
-                "tulip glass"
+                "prickly pear tastes like strawberry/watermelon/kiwi/melon. it is a succulent"
             ]
         ],
         "allergens": "",
@@ -1074,10 +1077,13 @@ export const foods = [
                 " Dad's Hat 'The Love Select Barrel' Rye, Evan Williams Black Bourbon, Gran Classico Bitter Aperitivo, maple syrup "
             ],
             [
+                "Dad's Hat is a single barrel rye distillery out of Bristol, PA. local, 'farm-to-table' "
+            ]
+            [
                 "garnish : orange twist "
             ],
             [
-                "rocks glass. big rock"
+                "rocks glass, big rock"
             ]
         ],
         "allergens": "",
@@ -1449,6 +1455,9 @@ export const foods = [
             [
                 " brewed with 5 northwest hops, approachable bitterness with a balanced malt body. 65 calories "
             ],
+            [
+                "less than .5% abv"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1559,10 +1568,13 @@ export const foods = [
             [
                 " lemon, lime zest, peach, floral, very crisp and bright "
             ],
+            [
+                "or perhaps pear, pineapple and lemon on the nose"
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "pairs well with spaghetti & shrimp entree, burrata toast, and risotto"
     },
     {
         "id": 62,
@@ -1578,6 +1590,15 @@ export const foods = [
             [
                 " elegent and restrained. grassy traditional NZ sauv blanc but less aggressive. rounder and richer in flavor than most. "
             ],
+            [
+                "smells like - grass and grapefruit"
+            ],
+            [
+                "tastes peachy & green peppery"
+            ],
+            [
+                "high acidity, light bodied, super pale"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1598,11 +1619,14 @@ export const foods = [
                 " crisp minerality while maintaining a medium body, a fair bit of saltiness, finish of white-pulp fruit "
             ],
             [
-                " : "
+                " smells like - golden delicious apples and lemon "
             ],
             [
-                " : "
+                " nice minerality, chalky, salty finish "
             ],
+            [
+                "good for someone looking for a french sauvignon blanc"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1620,13 +1644,13 @@ export const foods = [
         "category": "glass wine",
         "components": [
             [
-                " 5 month aged in stainless steel tanks. no barrel aging. nose has hints of white fleshed fruit and citrus. fresh and fruity on the palate wiht a salty finish. good acidity and minerality. "
+                " 5 month aged in stainless steel tanks. no barrel aging. nose has hints of white fleshed fruit and citrus. fresh and fruity on the palate with a salty finish. good acidity and minerality. "
             ],
             [
-                " : "
+                " smells like - bready, creamy (but not oaky), green apple "
             ],
             [
-                " : "
+                " same flavor profile as a champagne "
             ],
         ],
         "allergens": "",
@@ -1650,6 +1674,9 @@ export const foods = [
             [
                 " aromas of pomegranate, cherry, and baking spice with a hint of dried rose petals. vibrant aromatics are a lovely companion to the firm, fine tannins and balanced acidity. "
             ],
+            [
+                "pairs well with beet salad, pork chop, turkey melt"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1672,10 +1699,13 @@ export const foods = [
             [
                 " rich dark fruit takes center stage on the palate, with a dynamic finish ('a racy acidity') "
             ],
+            [
+                "classic California cab, medium plus body"
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": "replacing Notes Cab for a few weeks"
+        "notes": "going to go great with the fried chicken, pork chop, caesar salad, corn ravioli"
     },
     {
         "id": 67,
@@ -1691,15 +1721,21 @@ export const foods = [
             [
                 " fresh ripe berry, black and green pepper, lacking in oak, with soft subtle tannins and a medium body "
             ],
+            [
+                "dry but approachable"
+            ],
+            [
+                "tobacco, vanilla, leather"
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "goes great with short rib rigatoni, burger"
     },
     {
         "id": 68,
         "name": "Chiorri Sangiovese",
-        "menuDescription": "Umbria, Italy - 2002",
+        "menuDescription": "Umbria, Italy - 2022",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -1716,6 +1752,9 @@ export const foods = [
             [
                 " intense and persistent, medium bodied "
             ],
+            [
+                "earthy"
+            ]
         ],
         "allergens": "",
         "tableside": "",
@@ -1744,7 +1783,7 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "super drinkable. pair with apps (beet salad, cheese plate) and salmon entree. Contrast with fried chicken and hush puppies"
     },
     {
         "id": 70,

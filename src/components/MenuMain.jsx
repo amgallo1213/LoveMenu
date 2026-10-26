@@ -39,8 +39,6 @@ const MenuMain = ({ foods, drinks }) => {
     return (
         <div>
 
-
-
             <section className='search-select-container'>
                 <input
                     className='search-input'
