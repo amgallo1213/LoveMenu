@@ -1666,7 +1666,7 @@ export const foods = [
     {
         "id": 65,
         "name": "Pinot Project Pinot Noir",
-        "menuDescription": "Central Coast, CA - 2002",
+        "menuDescription": "Central Coast, CA - 2022",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -1955,7 +1955,107 @@ export const foods = [
                 " smells like - black cherry, casis, plum, vanilla, leather, earth, white pepper "
             ],
             [
-                " tastes like - jammy mouthfeel, rich red fruit wiht lingering tannins and a rich finish of spice "
+                " tastes like - jammy mouthfeel, rich red fruit with lingering tannins and a rich finish of spice "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "full bodied with excellent debth and balance"
+    },
+    {
+        "id": 77,
+        "name": "Fattoria Di Basciano Sangiovese Rosato",
+        "menuDescription": "Tuscany, IT - 2024",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - rose",
+        "components": [
+            [
+                " 100% Sangiovese "
+            ],
+            [
+                " smells like - wild berries and a whiff of yellow spring flowers "
+            ],
+            [
+                " tastes like - juicy, enjoyable palate doles out ripe Morello cherry and raspberry alongside bright acidity "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 78,
+        "name": "Mary Tyler Cabernet Sauvignon",
+        "menuDescription": "Bordeaux, FR - 2022",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                "  50% Merlot, with equal parts Cabernet Franc and Cabernet Sauvignon "
+            ],
+            [
+                " very drinkable, full bodied, bone-dry "
+            ],
+            [
+                " absence of oak during the aging process, which allows a bursting acidity and graphite minerality (imagine the lead of fresh pencil shavings) to shine through on the palate "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 79,
+        "name": "CUT AND PASTE NEW!!",
+        "menuDescription": "",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 80,
+        "name": "CUT AND PASTE NEW!!",
+        "menuDescription": "",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " : "
+            ],
+            [
+                " : "
+            ],
+            [
+                " : "
             ],
         ],
         "allergens": "",
