@@ -934,7 +934,7 @@ export const foods = [
         ],
         "allergens": "diary, alcohol, allium, garlic, capsaicin, capsicum, gluten, egg, vinegar, canola oil, mustard, citrus",
         "tableside": "our braised short rib with imported rigatoni, slow roasted tomatoes, fresh basil and crispy onions",
-        "notes": ""
+        "notes": "drink Malbec with this"
     },
     {
         "id": 35,
@@ -966,7 +966,7 @@ export const foods = [
         ],
         "allergens": "Fin fish (Worcestershire), apple, allium, citrus, mustard, pepper, capsaicin (blackening seasoning on sweet potatoes), Dairy (removable), Alcohol (removable).",
         "tableside": "Our bourbon cider glazed pork chop with roasted sweet potatoes and seared apples",
-        "notes": "glaze is rich, tangy & sweet. Soubise is a velvety, French onion sauce."
+        "notes": "glaze is rich, tangy & sweet. drink cab sauv"
     },
     {
         "id": 36,
@@ -1800,7 +1800,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "bottled wine",
+        "category": "bottled wine - white",
         "components": [
             [
                 " sourced from grapes in various vinyards across northern CA "
@@ -1825,7 +1825,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "bottled wine",
+        "category": "bottled wine - red",
         "components": [
             [
                 " aromas of red and black berry fruit, rose petals and just a touch of vanilla "
@@ -1850,7 +1850,7 @@ export const foods = [
             ["lunch, "],
             ["dinner"]
         ],
-        "category": "bottled wine",
+        "category": "bottled wine - rose",
         "components": [
             [
                 " fresh and youthful, with hints of peaches, mandarin and sumac spice. "
@@ -1863,6 +1863,106 @@ export const foods = [
         "tableside": "",
         "notes": "pairs excellently with Mediterranean cuisine"
     },
+    {
+        "id": 73,
+        "name": "Vai Lambrusco",
+        "menuDescription": "Emillia IGP - NV",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - sparkling",
+        "components": [
+            [
+                " dry, fresh, fruity, lively "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 74,
+        "name": "Chateau de Saint-Cosme 'Micro Cosme' Sauvignon Blanc/Viognier",
+        "menuDescription": "Pays d'Oc, FR - 2024",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - white",
+        "components": [
+            [
+                " stainless steel aging "
+            ],
+            [
+                " peach blossoms, fennel, apricot, grapefruit, lychee, mango "
+            ],
+            [
+                " vegan "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+
+    {
+        "id": 75,
+        "name": "Galen Glenn Gruner Veltliner",
+        "menuDescription": "Lehigh Valley, PA - 2023",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - white",
+        "components": [
+            [
+                " award winning "
+            ],
+            [
+                " dry, bright, food-friendly "
+            ],
+            [
+                " smells like - sweet pea, grapefruit, passion fruit and a hint of white pepper.  "
+            ],
+            [
+                "tastes like - citrus, stone fruit, and a clean, mineral finish "
+            ]
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "traditional Austrian grape"
+    },
+
+    {
+        "id": 76,
+        "name": "Truchard Syrah",
+        "menuDescription": "Los Carneros, Napa Valley, CA - 2023",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - red",
+        "components": [
+            [
+                " aged in French and American oak "
+            ],
+            [
+                " smells like - black cherry, casis, plum, vanilla, leather, earth, white pepper "
+            ],
+            [
+                " tastes like - jammy mouthfeel, rich red fruit wiht lingering tannins and a rich finish of spice "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+
 
 
 
