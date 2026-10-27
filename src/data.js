@@ -270,7 +270,7 @@ export const foods = [
         ],
         "allergens": "eggs, dairy, allium, nightshade, citrus",
         "tableside": "Our Healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou.",
-        "notes" : "comes with salad and potato wedges"
+        "notes": "comes with salad and potato wedges"
     },
     {
         "id": 11,
@@ -300,7 +300,7 @@ export const foods = [
         ],
         "allergens": "soy, mustard, gluten, dairy, allium, garlic (aioli), egg, avocado, capsaicin, honey, capsicum, vinegar, nightshade",
         "tableside": "Open-faced turkey melt with pepper jack cheese and avocado served over house made english muffin",
-        "notes" : "served with an egg for brunch but not lunch. comes with salad and potato wedges"
+        "notes": "served with an egg for brunch but not lunch. comes with salad and potato wedges"
     },
     {
         "id": 12,
@@ -336,7 +336,7 @@ export const foods = [
         ],
         "allergens": "dairy, allium, garlic (brine, comeback sauce), gelatin, capsaicin, nightshade, gluten, mustard, Capsicum, vinegar, egg, soy, fish (anchovy in worcestershire)",
         "tableside": "Our Nashville hot chicken over comeback suace with house made pickles",
-        "notes" : "breast and thigh. chili oil is a bit spicy."
+        "notes": "breast and thigh. chili oil is a bit spicy."
     },
     {
         "id": 13,
@@ -393,7 +393,7 @@ export const foods = [
         ],
         "allergens": "allium, garlic, nightshades, gluten, dairy, corn, vinegar, alcohol, citrus, honey, piperine (peppercorn breadcrumb)",
         "tableside": "Housemade ricotta ravioli, sweet corn saute, fresh basil sauce, and breadcrumbs",
-        "notes" : "also served as an entree at lunch and brunch"
+        "notes": "also served as an entree at lunch and brunch"
     },
     {
         "id": 15,
@@ -732,7 +732,7 @@ export const foods = [
                 "veggies etc. : breakfast/watermelon/ninja radishes, avocado, lime segements"
             ]
             [
-                "kimchi tastes tangy, sour, salty, savory, and often spicy, with a slight natural fizz or effervescence from active probiotic fermentation"
+            "kimchi tastes tangy, sour, salty, savory, and often spicy, with a slight natural fizz or effervescence from active probiotic fermentation"
             ]
         ],
         "allergens": "allium, sesame, garlic, soy, citrus, vinegar, nightshade, canola oil, mustard seed, capsicum, corn, shellfish",
@@ -1080,7 +1080,7 @@ export const foods = [
                 "Dad's Hat is a single barrel rye distillery out of Bristol, PA. local, 'farm-to-table' "
             ]
             [
-                "garnish : orange twist "
+            "garnish : orange twist "
             ],
             [
                 "rocks glass, big rock"
@@ -1866,7 +1866,7 @@ export const foods = [
     {
         "id": 73,
         "name": "Vai Lambrusco",
-        "menuDescription": "Emillia IGP - NV",
+        "menuDescription": "Emilia Romagna, IT - NV",
         "meal": [
             ["brunch"],
             ["lunch"],
@@ -1875,12 +1875,15 @@ export const foods = [
         "category": "bottled wine - sparkling",
         "components": [
             [
-                " dry, fresh, fruity, lively "
+                " smells like -  blackberry, raspberry, and violet accented by subtle floral and spice notes "
             ],
+            [
+                "On the palate, it is light- to medium-bodied with juicy dark berry flavors and lively effervescence. Bright acidity keeps the wine fresh and balanced. Aslight sweetness impression enhances the fruit character. The finish is crisp, vibrant, and refreshing"
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "lively and food friendly"
     },
     {
         "id": 74,
@@ -1996,7 +1999,7 @@ export const foods = [
             ["lunch"],
             ["dinner"]
         ],
-        "category": "",
+        "category": "bottled wine - red",
         "components": [
             [
                 "  50% Merlot, with equal parts Cabernet Franc and Cabernet Sauvignon "
@@ -2014,7 +2017,160 @@ export const foods = [
     },
     {
         "id": 79,
-        "name": "CUT AND PASTE NEW!!",
+        "name": "Field Recordings Wonderwall Pinot Noir",
+        "menuDescription": "Edna Valley, CA - 2024",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - red",
+        "components": [
+            [
+                " 100% pinot noir  "
+            ],
+            [
+                "light to medium bodied. black cherry, forest floor, exotic mushroom, and hint of ceylon cinnamon "
+            ],
+            [
+                " minimal sulfites, no additives, vegan "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "natural wine"
+    },
+    {
+        "id": 80,
+        "name": "Domaie Des Pierrettes 'Fines Bulles' Chenin Blanc",
+        "menuDescription": "Touraine (Loire Valley), FR - NV",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - sparkling",
+        "components": [
+            [
+                " medium bodied"
+            ],
+            [
+                " smells like - white fruit  "
+            ],
+            [
+                " tastes like - round apricot finish with refreshing mineral acidity "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "natural wine"
+    },
+    {
+        "id": 81,
+        "name": "Domaine De La Meuliere Chablis (Nicholas & Vincent LaRoche)",
+        "menuDescription": "Burgundy - 2023",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - white",
+        "components": [
+            [
+                " LISTED AS CHARDONNAY "
+            ],
+            [
+                " vibrant citrus, ripe orchard fruit and a delicate touch of white flowers. Its beautifully balanced palate combines crisp minerality with refreshing energy from Kimmeridgian limestone soils. Lively yet generous, this vintage offers impressive precision and a silky, mouth-watering finish "
+            ],
+            [
+                " natural fermentation, hand harvested, vegan "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "Pruning and harvests done by hand. No weedkillers. Plowing by hand. Natural control of the yield to guarantee quality. Sexual confusion of the plant. (wtf does this mean?!) Sustainable agriculture. "
+    },
+    {
+        "id": 82,
+        "name": "Domaine Roger Et Christophe Moreux 'Tradition' Sancerre",
+        "menuDescription": "Sancerre, FR - 2024",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - white",
+        "components": [
+            [
+                " 100% sauvignon blanc "
+            ],
+            [
+                " mineral driven with a long finish "
+            ],
+            [
+                " Floral, fresh, elegant nose with hints of smoke, pink grapefruit and melon evolves in the glass "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 83,
+        "name": "Chateau La Gordonne Grenache/Cinsault Rose",
+        "menuDescription": "Cotes Du Profence, FR - 2024",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - rose",
+        "components": [
+            [
+                " smells like - intense with notes of citrus and white flowers "
+            ],
+            [
+                " very nice freshness, a well-balanced and full-bodied cuvée. A silky and fine texture on the palate "
+            ],
+            [
+                " pale pink "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": "someone has grown wine in the Gordonne region since the 1st century BC"
+    },
+    {
+        "id": 84,
+        "name": "Guido Berta Barbera D'Asti",
+        "menuDescription": "Piedmont, IT - 2023",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "bottled wine - red",
+        "components": [
+            [
+                "smells like - pleasant hints of fruit, with a predominance of small red berries, cherries and raspberries respectively. "
+            ],
+            [
+                "fresh and focused palate features notes of juicy fruit and summer berries with clean acidity and a subtle herbal finish "
+            ],
+            [
+                " full and deep, with great roundness, the long and persistent finish makes it particularly inviting "
+            ],
+            [
+                "100% barbera "
+            ]
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 85,
+        "name": "",
         "menuDescription": "",
         "meal": [
             ["brunch"],
@@ -2024,10 +2180,10 @@ export const foods = [
         "category": "",
         "components": [
             [
-                " : "
+                " "
             ],
             [
-                " : "
+                " "
             ],
             [
                 " : "
@@ -2038,7 +2194,82 @@ export const foods = [
         "notes": ""
     },
     {
-        "id": 80,
+        "id": 86,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " "
+            ],
+            [
+                " "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 87,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " "
+            ],
+            [
+                " "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 88,
+        "name": "",
+        "menuDescription": "",
+        "meal": [
+            ["brunch"],
+            ["lunch"],
+            ["dinner"]
+        ],
+        "category": "",
+        "components": [
+            [
+                " "
+            ],
+            [
+                " "
+            ],
+            [
+                " : "
+            ],
+        ],
+        "allergens": "",
+        "tableside": "",
+        "notes": ""
+    },
+    {
+        "id": 89,
         "name": "CUT AND PASTE NEW!!",
         "menuDescription": "",
         "meal": [
@@ -2049,10 +2280,10 @@ export const foods = [
         "category": "",
         "components": [
             [
-                " : "
+                " "
             ],
             [
-                " : "
+                " "
             ],
             [
                 " : "
