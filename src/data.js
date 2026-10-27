@@ -195,7 +195,7 @@ export const foods = [
                 "herb yogurt : garlic, thyme, chive, lemon zest, dill, greek yogurt, lemon juice, champagne vinegar"
             ],
             [
-                "lemon gastrique : lemon, dill, tarragon, thyme, black pepper, sugar"
+                "lemon gastrique : lemon, dill, tarragon, thyme, black pepper, sugar. A gastrique is a classic French sweet-and-sour reduction sauce made by caramelizing sugar and deglazing it with an acid like vinegar."
             ],
             [
                 "walnut crumble : walnuts, black pepper, oregano, red chili flakes, fennel"
@@ -240,7 +240,7 @@ export const foods = [
         "category": "brunch/lunch",
         "components": [
             [
-                " Grits : Castle Valley Mill Yellow Grits (local out of Doylestown, PA), buttermilk, butter "
+                " grits : Castle Valley Mill Yellow Grits (Doylestown, PA), buttermilk, butter "
             ],
             [
                 " shrimp sauce : heavy cream, tomato paste, water, shrimp shells (for stock), butter, garlic, shallot, celery, cubanelle, red bell pepper, scallions, white wine, chili suace, tabasco, black & white peppercorns, Aleppo, mace, red chili flake, cumin, fennel seed, thyme, dehydrated onion, paprika, vinegar "
@@ -250,7 +250,8 @@ export const foods = [
             ],
         ],
         "allergens": "shellfish, dairy, alcohol, allium, garlic (shrimp sauce), capsaicin, Capsicum, nightshade, tomato",
-        "tableside": "Shrimp served over buttery corn grits with shellfish sauce and shishito peppers"
+        "tableside": "Shrimp served over buttery corn grits with shellfish sauce and shishito peppers",
+        "notes" : "rich, indulgent. spicy sauce cuts the fattiness of the grits"
     },
     {
         "id": 10,
@@ -269,7 +270,7 @@ export const foods = [
             ]
         ],
         "allergens": "eggs, dairy, allium, nightshade, citrus",
-        "tableside": "Our Healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou.",
+        "tableside": "Our healthy fritatta wedge with zucchini, ripe tomatoes, and a sweet basil pistou.",
         "notes": "comes with salad and potato wedges"
     },
     {
@@ -313,7 +314,7 @@ export const foods = [
         "category": "brunch/lunch",
         "components": [
             [
-                " Chicken Batter : AP flour, semonlin, salt, black peppercorn, cumin seed, coriander seed, cayenne, rice flour, yellow mustard powder "
+                " Chicken Batter : AP flour, semonlina, salt, black peppercorn, cumin seed, coriander seed, cayenne, rice flour, yellow mustard powder "
             ],
             [
                 " Chicken Brine : buttermilk, thyme, lemon peel, ginger, lactic acid, onion powder, garlic powder, dark brown sugar, salt, water "
@@ -1868,8 +1869,8 @@ export const foods = [
         "name": "Vai Lambrusco",
         "menuDescription": "Emilia Romagna, IT - NV",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - sparkling",
@@ -1890,8 +1891,8 @@ export const foods = [
         "name": "Chateau de Saint-Cosme 'Micro Cosme' Sauvignon Blanc/Viognier",
         "menuDescription": "Pays d'Oc, FR - 2024",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - white",
@@ -1916,8 +1917,8 @@ export const foods = [
         "name": "Galen Glenn Gruner Veltliner",
         "menuDescription": "Lehigh Valley, PA - 2023",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - white",
@@ -1945,8 +1946,8 @@ export const foods = [
         "name": "Truchard Syrah",
         "menuDescription": "Los Carneros, Napa Valley, CA - 2023",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - red",
@@ -1963,15 +1964,15 @@ export const foods = [
         ],
         "allergens": "",
         "tableside": "",
-        "notes": "full bodied with excellent debth and balance"
+        "notes": "full bodied with excellent depth and balance"
     },
     {
         "id": 77,
         "name": "Fattoria Di Basciano Sangiovese Rosato",
         "menuDescription": "Tuscany, IT - 2024",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - rose",
@@ -1995,8 +1996,8 @@ export const foods = [
         "name": "Mary Tyler Cabernet Sauvignon",
         "menuDescription": "Bordeaux, FR - 2022",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - red",
@@ -2020,8 +2021,8 @@ export const foods = [
         "name": "Field Recordings Wonderwall Pinot Noir",
         "menuDescription": "Edna Valley, CA - 2024",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - red",
@@ -2045,8 +2046,8 @@ export const foods = [
         "name": "Domaie Des Pierrettes 'Fines Bulles' Chenin Blanc",
         "menuDescription": "Touraine (Loire Valley), FR - NV",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - sparkling",
@@ -2070,8 +2071,8 @@ export const foods = [
         "name": "Domaine De La Meuliere Chablis (Nicholas & Vincent LaRoche)",
         "menuDescription": "Burgundy - 2023",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - white",
@@ -2095,8 +2096,8 @@ export const foods = [
         "name": "Domaine Roger Et Christophe Moreux 'Tradition' Sancerre",
         "menuDescription": "Sancerre, FR - 2024",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - white",
@@ -2120,8 +2121,8 @@ export const foods = [
         "name": "Chateau La Gordonne Grenache/Cinsault Rose",
         "menuDescription": "Cotes Du Profence, FR - 2024",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - rose",
@@ -2145,8 +2146,8 @@ export const foods = [
         "name": "Guido Berta Barbera D'Asti",
         "menuDescription": "Piedmont, IT - 2023",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "bottled wine - red",
@@ -2173,8 +2174,8 @@ export const foods = [
         "name": "",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "",
@@ -2198,8 +2199,8 @@ export const foods = [
         "name": "",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "",
@@ -2223,8 +2224,8 @@ export const foods = [
         "name": "",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "",
@@ -2248,8 +2249,8 @@ export const foods = [
         "name": "",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "",
@@ -2273,8 +2274,8 @@ export const foods = [
         "name": "CUT AND PASTE NEW!!",
         "menuDescription": "",
         "meal": [
-            ["brunch"],
-            ["lunch"],
+            ["brunch, "],
+            ["lunch, "],
             ["dinner"]
         ],
         "category": "",
