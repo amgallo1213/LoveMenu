@@ -365,7 +365,7 @@ export const foods = [
     {
         "id": 14,
         "name": "Handmade Ricotta Ravioli",
-        "menuDescription": "sweet corn saute, fresh basil sauce, and peppercorn breadcrumbs",
+        "menuDescription": "butternut squash sauce, spiced pecans, sage, ginger and cherry gastrique",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -374,32 +374,38 @@ export const foods = [
         "category": "dinner entree",
         "components": [
             [
-                " Build : Six ricotta ravioli, parm stock (contains allium), grated parm, butter "
+                " Ravioli: 6 pieces, egg wash, water, flour, salt, egg, ricotta calabro "
             ],
             [
-                " Corn Thyme Beurre Blanc : corn, parm stock, thyme beurre blanc, white wine, cornstarch, butter, parmesan, lemon juice, salt "
+                "Build: Brown butter Butternut Puree, Sour cherry gastrique, ricotta, pecans, fried sage, butter, grana, parm stock, lemon shaved delicata squash, roasted delicata rings"
             ],
             [
-                " Basil Arugula Pistou : basil, arugula, roasted garlic, xanthan gum, EVOO, grated parm, salt, honey, lemon zest "
+                "Pecan Crumble: Crumbled pecans, rosemary mince, apple cider vinegar, brown sugar, salt, cinnamon powder, cracked black pepper, chili flake."
             ],
             [
-                " Slow Roasted Cherry Tomatoes : cherry tomatoes, thyme, oregano, roasted garlic, sherry vinegar, fennel, EVOO, sugar, salt, cracked black pepper "
+                "Brown Butternut Puree: Butternut, ginger, butter, brown sugar, lemon juice, salt, Thyme, sage, rosemary"
             ],
             [
-                " Garlic Black Pepper Breadcrumb : blitzed ciabatta croutons, garlic oil, black pepper, salt "
+                "Cherry Gastrique: sour cherries, white sugar, brown sugar, red wine vinegar, white wine vinegar, bay leaves, black peppercorns, ginger"
             ],
             [
-                " Garnish : Slow roasted cherry tomatoes, basil arugula pistou, garlic black pepper breadcrumbs, chives "
+                "Delicata Rings: Aleppo, salt, EVOO, nutmeg"
             ],
+            [
+                "Fried Delicata: Shaved delicata, salt, nutmeg"
+            ],
+            [
+                "Garnish: Sage, Fried Delicata Crisp, Shaved grana cheese"
+            ]
         ],
-        "allergens": "allium, garlic, nightshades, gluten, dairy, corn, vinegar, alcohol, citrus, honey, piperine (peppercorn breadcrumb)",
-        "tableside": "Housemade ricotta ravioli, sweet corn saute, fresh basil sauce, and breadcrumbs",
+        "allergens": "Nuts, Stone fruit, Gluten, Dairy, Alcohol, Allium, Citrus, Peppercorn, baking spice, ginger, capsaicin, egg",
+        "tableside": "Our handmade ravioli with a butternut sauce, spiced pecans and a cherry gastrique.",
         "notes": "also served as an entree at lunch and brunch"
     },
     {
         "id": 15,
-        "name": "Truffle Scented Cauliflower Risotto",
-        "menuDescription": "brandied butternut squash, brown butter pears, rosemary, hazelnuts",
+        "name": "Truffle Scented Risotto",
+        "menuDescription": "brandied fall squash, tender cauliflower, brown butter pears, rosemary hazelnuts",
         "meal": [
             ["brunch, "],
             ["lunch, "],
@@ -489,7 +495,7 @@ export const foods = [
                 " Long Hot Aioli : mayo, white wine vin, black pepper, salt, confit garlic, roasted long hots/pickled long hots "
             ],
             [
-                " Build : sesame seed bun, long hot aioli, burger patty, fried onions, ciioer sharp cheddar cheese "
+                " Build : sesame seed bun, long hot aioli, burger patty, fried onions, cooper sharp cheddar cheese "
             ],
         ],
         "allergens": "dairy, gluten, allium, garlic, capsicum, capsaicin, canola oil, vinegar, mustard, egg, soy, nightshade",
@@ -1419,7 +1425,7 @@ export const foods = [
     },
     {
         "id": 55,
-        "name": "Downeast 'Cider Donut'",
+        "name": "Downeast Pumpkin Cider'",
         "menuDescription": "",
         "meal": [
             ["brunch, "],
@@ -1429,15 +1435,21 @@ export const foods = [
         "category": "beer",
         "components": [
             [
-                " cider from Boston "
+                " Unfiltered hard cider made from fresh-pressed apples, pumpkin mash, water, and aged with chai tea spices. "
             ],
             [
-                " fresh-pressed apple cider with cinnamon, brown sugar, and hints of vanilla "
+                " Flavor Profile: Smooth and easy drinking with mild pumpkin base, with a cozy dash of cinnamon, nutmeg, and chai mulling spices. "
             ],
+            [
+                "Food Pairing: Soft and creamy cheeses, roasted root vegetables, savory pork dishes, and spiced fall desserts"
+            ],
+            [
+                "Serving Tip: Gently shake or tip the can before opening to mix the natural, unfiltered sediment."
+            ]
         ],
         "allergens": "",
         "tableside": "",
-        "notes": ""
+        "notes": "5% ABV"
     },
     {
         "id": 56,
